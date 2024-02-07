@@ -13,4 +13,7 @@ add_executable(Full_C_Plus_Plus_Course
         Week1/Lab1/Task1.cpp
         Week1/Lab1/Task5.cpp
         Week1/Lab1/Task7.cpp
-        Week1/Lab1/Task8.cpp)
+        Week1/Lab1/Task8.cpp
+        Week1/Lab1/Trokut.cpp
+        Week1/Lab1/ASCII.cpp
+)
