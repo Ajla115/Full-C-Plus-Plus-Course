@@ -44,8 +44,6 @@ int countWords(char b[256]) {
 
 void convertToCamelCase(char c[256], char camelOutput[256]) {
 
-    bool firstWord = true;
-    int camelCaseIndex = 0;
 
     for (int i = 0; c[i] != '\0'; i++) {
         if (c[i] == ' ') {
