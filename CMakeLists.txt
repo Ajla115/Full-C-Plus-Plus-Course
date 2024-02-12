@@ -18,4 +18,5 @@ add_executable(Full_C_Plus_Plus_Course
         Week1/Lab1/ASCII.cpp
         Week1/Lab1/PalindromCheck.cpp
         Week1/Lab1/vjezba.cpp
+        Week1/Lab1/Task9.cpp
 )
