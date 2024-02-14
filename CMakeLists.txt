@@ -17,6 +17,18 @@ add_executable(Full_C_Plus_Plus_Course
         Week1/Lab1/Trokut.cpp
         Week1/Lab1/ASCII.cpp
         Week1/Lab1/PalindromCheck.cpp
-        Week1/Lab1/vjezba.cpp
         Week1/Lab1/Task9.cpp
+        Lab2/Task1.cpp
+        Lab2/Task2.cpp
+        Lab2/Task3.cpp
+        Lab2/Task4.cpp
+        Lab2/Task5.cpp
+        Lab2/Task6.cpp
+        Lab2/Task7.cpp
+        Lab2/Task7.cpp
+        Lab2/Task8.cpp
+        Lab2/Task9.cpp
+        Lab2/Task10.cpp
+        Lab2/Task11.cpp
+        Lab2/Task12.cpp
 )

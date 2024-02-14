@@ -20,6 +20,37 @@ void checkIfPalindrom(char a[256]){
 
 }
 
+bool isPalindrom(char a[256]){
+
+    int k = strlen(a) - 1;
+    int i = 0;
+    while(i != k){
+
+        if (a[i] == ' '){
+            i++;
+            continue;
+        }
+        if (a[k] == ' '){
+            k--;
+            continue;
+        }
+
+        if(a[i] == a[k] && a[i] != ' '){
+            ++i;
+            --k;
+            continue;
+        }
+
+        if(a[i] != a[k]) {
+            return false;
+        }
+    }
+
+    return true;
+
+}
+
+
 void removeSpaces(char str[256], char result[256]) {
     int count = 0;
     for (int i = 0; str[i]; i++) {
@@ -42,21 +73,87 @@ int countWords(char b[256]) {
     return wordCount;
 }
 
-void convertToCamelCase(char c[256], char camelOutput[256]) {
+int wordCounter (char b[256]){
+    bool flag = false;
+    int wordCount = 0;
+    int i = 0;
+    //for (int i = 0; i < strlen(b); i++){
+        while(b[i] != '\0'){
 
-
-    for (int i = 0; c[i] != '\0'; i++) {
-        if (c[i] == ' ') {
-            c[i+1] = toupper(c[i+1]);
+        if(b[i] == ' '){
+            if(flag){
+                wordCount++;
+                flag = false;
+            }
         }
+        else if (b[i] != ' '){
+          flag = true;
+        }
+        i++;
     }
-    camelOutput[strlen(c)] = '\0'; // Add null terminator
+    if(flag){
+        wordCount++;
+    }
+
+    return wordCount;
 
 }
 
+void convertToCamelCase(char *c) {
+    bool flag = false;
+    char a[256];
+    int counter{0};
+    for (int i = 0; c[i+1] != '\0'; i++) {
+        if (c[i] == ' ' && c[i + 1] != ' ') {
+            counter++;
+            if (counter > 1)
+                c[i + 1] = toupper(c[i + 1]);
+        }
+    }
+
+    int i, j = 0;
+    while (true){
+        if (c[i] != ' '){
+            i++;
+            continue;
+        }
+        if (i > j) j = i + 1;
+        if (c[j] == ' '){
+            j++;
+            continue;
+        }
+        if (c[i] == ' ' && c[j] != ' ' && j > i){
+            // jel prvi copy da li ide upper case
+            c[i] = c[j];
+            if (c[j] != '\0') c[j] = ' ';
+            i++;
+        }
+        if (c[j] == '\0'){
+            c[i] = '\0';
+            break;
+        }
+    }
+    cout<<c<<endl;
+}
+
 int main() {
+
+    std::string  a = "hamo pipa0";
+
+    a.erase(2, 1);
+    cout<<a<<endl;
+
+    /*
+    char camelCaseString[256];
     cout << "Welcome to the Palindrome Check Application." << endl;
-    while (true) {
+    //cout << wordCounter("ana voli milovana");
+    char tekst[20] = "  ana voli milu ";
+    convertToCamelCase(tekst);
+    cout << tekst;
+
+    // R value   L value    X value
+
+   /* while (true) {
 
     char inputString[128];
     char noSpacesString[256];
@@ -77,14 +174,16 @@ int main() {
 
     removeSpaces(inputString, noSpacesString);
     checkIfPalindrom(noSpacesString);
+
+    cout << isPalindrom(inputString)<<endl;
     cout << "Number of words is: "<< countWords(inputString)<<endl;
 
     convertToCamelCase(inputString, camelCaseString);
     cout << "Camel Case Version is: " << camelCaseString<<endl;
 
 }
-
-    cout << "You have exited the application"<<endl;
+        cout << true;
+    cout << "You have exited the application"<<endl;*/
     return 0;
 
 }
