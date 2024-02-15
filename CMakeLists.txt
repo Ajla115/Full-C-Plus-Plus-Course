@@ -31,4 +31,15 @@ add_executable(Full_C_Plus_Plus_Course
         Lab2/Task10.cpp
         Lab2/Task11.cpp
         Lab2/Task12.cpp
+        Lab2/Task13.cpp
+        Lab3/Task3.cpp
+        Lab3/Task4.cpp
+        Lab3/Task5.cpp
+        Lab3/Task6.cpp
+        Week1/Lab1/PalindromStrings.cpp
+        Lab3/Task7.cpp
+        Lab3/Task8.cpp
+        Lab3/Task9.cpp
+        Lab3/Task10.cpp
+        Lab3/Task11.cpp
 )
