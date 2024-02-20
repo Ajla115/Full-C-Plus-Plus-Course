@@ -42,4 +42,7 @@ add_executable(Full_C_Plus_Plus_Course
         Lab3/Task9.cpp
         Lab3/Task10.cpp
         Lab3/Task11.cpp
+        Week1/Lab1/Task10.cpp
+        Week1/Lab1/Task11.cpp
+        Week1/Lab1/Task12.cpp
 )
