@@ -45,4 +45,20 @@ add_executable(Full_C_Plus_Plus_Course
         Week1/Lab1/Task10.cpp
         Week1/Lab1/Task11.cpp
         Week1/Lab1/Task12.cpp
+        Lab4/Task1.cpp
+        Lab4/Task2.cpp
+        Lab4/Task3.cpp
+        Lab4/Task4.cpp
+        Lab4/Task5.cpp
+        Lab4/Task5b.cpp
+        Lab4/Task6.cpp
+        Lab4/Task7.cpp
+        Lab4/Task8.cpp
+        Lab4/Task9.cpp
+        Lab4/Task10.cpp
+        Lab4/Task11.cpp
+        Lab4/Task12.cpp
+        Lab4/Task13.cpp
+        Lab4/Task14.cpp
+        Lab4/Task15.cpp
 )
