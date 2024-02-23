@@ -72,4 +72,11 @@ add_executable(Full_C_Plus_Plus_Course
         Lab5/Task9.cpp
         Lab5/Task10.cpp
         Lab5/Task11.cpp
+        Lab6/Task1.cpp
+        Lab6/Task2.cpp
+        Lab6/Task3.cpp
+        Lab6/Task4.cpp
+        Lab6/Task5.cpp
+        Lab6/Task6.cpp
+        Lab6/Task7.cpp
 )
