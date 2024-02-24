@@ -90,4 +90,9 @@ add_executable(Full_C_Plus_Plus_Course
         Lab7/Task9.cpp
         Lab7/Task10.cpp
         Lab7/Task11.cpp
+        Lab8/Task1.cpp
+        Lab8/Task2.cpp
+        Lab8/Task3.cpp
+        Lab8/Task4.cpp
+        Lab8/Task5.cpp
 )
