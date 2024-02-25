@@ -105,4 +105,10 @@ add_executable(Full_C_Plus_Plus_Course
         Lab9/Person.cpp
         Lab9/TrafficLights.cpp
         Lab9/Movie.cpp
+        Lab10/Task1.cpp
+        Lab10/Task2.cpp
+        Lab10/Task3.cpp
+        Lab10/Task4.cpp
+        Lab10/Task7.cpp
+        Lab10/Task8.cpp
 )
