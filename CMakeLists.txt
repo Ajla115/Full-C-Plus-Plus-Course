@@ -95,4 +95,14 @@ add_executable(Full_C_Plus_Plus_Course
         Lab8/Task3.cpp
         Lab8/Task4.cpp
         Lab8/Task5.cpp
+        Lab9/Car.cpp
+        Lab9/Course.cpp
+        Lab9/Student.cpp
+        Lab9/Triangle.cpp
+        Lab9/Room.cpp
+        Lab9/Calculator.cpp
+        Lab9/Employee.cpp
+        Lab9/Person.cpp
+        Lab9/TrafficLights.cpp
+        Lab9/Movie.cpp
 )
