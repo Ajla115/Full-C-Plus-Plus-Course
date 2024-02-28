@@ -8,7 +8,10 @@ using namespace std;
 
 int main(){
 
-    int hours = 6, minutes = 40, seconds;
+    int x, hours = 6, minutes = 40, seconds;
+
+//    cout << x << endl;
+//    cout << seconds << endl;
 
     seconds = (hours * 3600) + (minutes * 60);
 

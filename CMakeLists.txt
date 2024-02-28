@@ -125,4 +125,5 @@ add_executable(Full_C_Plus_Plus_Course
         Lab1V2/Task12.cpp
         Lab1V2/Task13.cpp
         Lab1V2/Task16.cpp
+        Lab1V2/Task15.cpp
 )

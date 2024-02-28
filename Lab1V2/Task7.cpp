@@ -4,15 +4,15 @@
 
 #include <iostream>
 
-using namespace std;
+
 
 int main(){
     double length, width, area;
 
-    cout << "Enter the length and width:  " << endl;
-    cin >> length >> width;
+    std::cout << "Enter the length and width:  " << std::endl;
+    std::cin >> length >> width;
 
-    cout << "Area is: " << (int) (length * width) << endl;
+   std::cout << "Area is: " << (int) (length * width) << std::endl;
 
     return 0;
 }

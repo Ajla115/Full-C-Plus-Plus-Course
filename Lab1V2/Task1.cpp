@@ -5,13 +5,12 @@ using namespace std;
 
 int main(){
 
-    string name = "John Doe";
-    string dob = "01.01.1991.";
+    string name = "John Doe", dob = "01.01.1991." ;
     string phone = "387 123 456";
 
     cout << name << "\n";
     cout << dob << endl;
     cout << phone << endl;
 
-    return 0;
+   return 0;
 }

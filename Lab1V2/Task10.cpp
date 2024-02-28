@@ -11,28 +11,22 @@
 using namespace std;
 
 int main(){
-    char arr[1000];
-    double   celsTempRes, fahrTempRes;
-    int celsTemp{};
-
-    int fahrTemp{};
+    double  celsTempRes, fahrTempRes;
+    int celsTemp, fahrTemp;
 
     cout << "Celsius and Fahrenheit temperature: " << endl;
-    cin >> celsTemp >> fahrTemp;
-    if(!cin){
-        cout << "DEMO" ;
-    }
-    cin.getline( arr, 1000);
-    cout << arr ;
+    //cout << celsTemp << " " << fahrTemp ;
+    cin >> celsTemp >> fahrTemp ;
 
-    cout << celsTemp << " " << fahrTemp ;
+    fahrTempRes = (9.0/5 * celsTemp) + 32;
 
-    fahrTempRes = (9.0/5.0 * celsTemp) + 32;
-
-    celsTempRes = ( fahrTemp - 32) *  5.0/9.0 ;
+    celsTempRes = ( fahrTemp - 32) *  5/9.0 ;
 
     cout << "Result from " << celsTemp <<  " is  " << fahrTempRes << endl;
     cout << "Result from " << fahrTemp <<  " is  " << round(celsTempRes*100)/100 << endl;
+
+    //celsTempRes -> 45.5678992625773 -> 4556.7899 -> 4557 -> 45.57
+    //celsTempRes -> 4533.56778992625773 -> 4533567.7899 -> 453357 -> 4533.57
 
     return 0;
 }

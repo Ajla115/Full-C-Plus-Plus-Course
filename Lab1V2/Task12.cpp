@@ -11,18 +11,13 @@ int main(){
     cout << "Enter 5 words: " << endl;
     cin >> w1 >> w2 >> w3 >> w4 >> w5 ;
 
-    song += w1;
-    song += w2;
-    song += w3;
-    song += w4;
+    song += w1 + " ";
+    song += w2 + " ";
+    song += w3 + " ";
+    song += w4 + " ";
     song += w5 + "\n";
 
     cout << "Song is: " << song << endl;
-
-
-
-
-
 
     return 0;
 }

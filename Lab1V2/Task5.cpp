@@ -16,11 +16,14 @@ int main(){
     int num = 15;
     double dbl = 10.2345678;
 
-    cout << ch << endl;
+    cout << ch << "\n" << word << endl;
     cout << word << endl;
     cout << flt << endl;
     cout << num << endl;
-    cout << dbl << endl;
+    cout << (int) dbl << endl;
+
+    cout << typeid(dbl).name() ;
+
 
     return 0;
 }

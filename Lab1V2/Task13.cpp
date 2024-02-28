@@ -14,7 +14,7 @@ int main(){
     cout << "Addition: " << num1 + num2 << endl;
     cout << "Subtraction: " << num1 - num2 << endl;
     cout << "Multiplication: " << num1 * num2 << endl;
-    cout << "Division: " <<  ((double)num1 / num2)  << endl;
+    cout << "Division: " <<  ((double) num1 / num2)  << endl;
 
 
 }
