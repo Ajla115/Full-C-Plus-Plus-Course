@@ -111,4 +111,18 @@ add_executable(Full_C_Plus_Plus_Course
         Lab10/Task4.cpp
         Lab10/Task7.cpp
         Lab10/Task8.cpp
+        Week1/Lab1/Task16.cpp
+        Week1/Lab1/Task14.cpp
+        Lab1V2/Task1.cpp
+        Lab1V2/Task5.cpp
+        Lab1V2/Task7.cpp
+        Lab1V2/Task8.cpp
+        Lab1V2/Task8V2.cpp
+        Lab1V2/Task9.cpp
+        Lab1V2/Task10.cpp
+        Week1/Lab1/Task67.cpp
+        Lab1V2/Task11.cpp
+        Lab1V2/Task12.cpp
+        Lab1V2/Task13.cpp
+        Lab1V2/Task16.cpp
 )
