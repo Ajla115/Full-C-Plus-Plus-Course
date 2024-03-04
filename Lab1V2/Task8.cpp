@@ -2,18 +2,24 @@
 #include <iostream>
 #include <cmath>
 
+using namespace std;
+
 int main(){
+    int  var1, var2;
+    cout << "Enter value 1: " << endl;
+    cin >> var1;
 
-    int var1, var2, temp;
+    cout << "Enter value 2: " << endl;
+    cin >> var2;
 
-    std::cout << "Enter values for the variable 1 and 2: " << std::endl;
-    std::cin >> var1 >> var2;
+    var1 = var1 + var2 ;
+    var2 = var1 - var2;
+    var1 = var1 - var2;
 
-    temp = var1;
-    var1 = var2;
-    var2 = temp;
-
-    std:: cout << "Values after switching: " << var1 << " " <<  var2 << std::endl;
+    cout << "Value 1 and value 2:  " << var1 << " " << var2;
 
     return 0;
+
+
+
 }

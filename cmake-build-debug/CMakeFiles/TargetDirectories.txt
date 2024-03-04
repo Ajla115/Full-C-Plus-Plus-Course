@@ -1,3 +1,4 @@
 C:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles/Full_C_Plus_Plus_Course.dir
+C:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles/new_target.dir
 C:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles/rebuild_cache.dir

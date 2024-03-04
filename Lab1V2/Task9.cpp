@@ -8,7 +8,7 @@ using namespace std;
 
 int main(){
 
-    int x, hours = 6, minutes = 40, seconds;
+    int hours = 6, minutes = 40, seconds;
 
 //    cout << x << endl;
 //    cout << seconds << endl;

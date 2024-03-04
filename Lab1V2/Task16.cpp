@@ -9,20 +9,21 @@ using namespace std;
 
 int main()
 {
-    int x = 4, a, b;
+    int a, b, x = 4;
 
-    a = ++x;
+    cout << x << endl; // 4
+    a = x--;
+    // a = x //4
+    // x-- 5
+    cout << a << endl; //4
 
-//    x = x+1;
-//    a = x;
-    cout << a << endl; //5
-
-        b = x;
-//    x = x+1;
-//    b = x++;
+    b = --x; //6
+    //x = x-1 //6
+    //b = x
+    cout << b << endl; // 6
 
 
-    cout << b << endl ; //5
-    cout << x << endl; //6
-    return 0;
+
+
+
 }

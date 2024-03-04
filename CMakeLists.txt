@@ -126,4 +126,22 @@ add_executable(Full_C_Plus_Plus_Course
         Lab1V2/Task13.cpp
         Lab1V2/Task16.cpp
         Lab1V2/Task15.cpp
+        Lab1V2/Task4.cpp
+        Lab2V2/Task1.cpp
+        Lab2V2/Task2.cpp
+        Lab2V2/Task3.cpp
+        Lab2V2/Task4.cpp
+        Lab2V2/Task5.cpp
+        Lab2V2/Task6.cpp
+        Lab2V2/Task6.cpp
+        Lab2V2/Task7.cpp
+        Lab2V2/Task7.cpp
+        Lab2V2/Task8.cpp
+        Lab2V2/Task8.cpp
+        Lab2V2/Task9.cpp
+        Lab2V2/Task9.cpp
+        Lab2V2/Task10.cpp
+        Lab2V2/Task11.cpp
+        Lab2V2/Task12.cpp
 )
+add_executable(new_target Lab2V2/Task8.cpp)

@@ -4,17 +4,18 @@
 
 #include <iostream>
 #include <iomanip>
+#include <cmath>
+
 using namespace std;
 
 int main(){
-    int a,b,c,d;
-    double avg;
-    cout << "Enter grades for 4 subjects: Calculus, Physics, Programming and English Language: " << endl;
+    int a, b, c, d;
+    cout << "Enter 4 grades: "<< endl;
     cin >> a >> b >> c >> d;
 
-    avg = (( (double) a+b+c+d)/4);
-
-    cout << "Average is: " << fixed << setprecision(2) <<   avg << endl;
-    cout << typeid(avg).name();
+    double avg = ( a+b+c+d)/4.0;
+    cout << "Avg is: " << round(avg*100)/100;
     return 0;
+
+
 }

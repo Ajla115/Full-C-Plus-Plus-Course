@@ -775,6 +775,84 @@ build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task15.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
   OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab1V2
 
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task4.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab1V2/Task4.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab1V2\Task4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab1V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task1.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task1.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task2.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task2.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task2.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task3.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task3.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task4.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task4.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task5.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task5.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task6.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task6.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task6.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task7.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task7.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task7.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task8.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task8.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task9.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task9.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task9.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task10.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task10.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task10.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task11.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task11.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task11.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
+build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task12.cpp.obj: CXX_COMPILER__Full_C_Plus_Plus_Course_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task12.cpp || cmake_object_order_depends_target_Full_C_Plus_Plus_Course
+  DEP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2\Task12.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
+  OBJECT_FILE_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir\Lab2V2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Full_C_Plus_Plus_Course
@@ -783,7 +861,7 @@ build CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task15.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable Full_C_Plus_Plus_Course.exe
 
-build Full_C_Plus_Plus_Course.exe: CXX_EXECUTABLE_LINKER__Full_C_Plus_Plus_Course_Debug CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/Lecture1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/AreaAndNumberInput.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/DisplayTime.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/ShowCurrentTime.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/TwoDigitsAfterDecimalPoints.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/CountingMonetaryUnits.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Trokut.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/ASCII.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/PalindromCheck.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/PalindromStrings.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task5b.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task14.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task15.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Car.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Course.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Student.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Triangle.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Room.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Calculator.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Employee.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Person.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/TrafficLights.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Movie.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task16.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task14.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task8V2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task67.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task16.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task15.cpp.obj
+build Full_C_Plus_Plus_Course.exe: CXX_EXECUTABLE_LINKER__Full_C_Plus_Plus_Course_Debug CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/Lecture1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/AreaAndNumberInput.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/DisplayTime.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/ShowCurrentTime.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/TwoDigitsAfterDecimalPoints.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lecture1/CountingMonetaryUnits.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Trokut.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/ASCII.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/PalindromCheck.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/PalindromStrings.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task5b.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task14.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab4/Task15.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab5/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Car.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Course.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Student.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Triangle.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Room.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Calculator.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Employee.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Person.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/TrafficLights.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Movie.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task16.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task14.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task8V2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Week1/Lab1/Task67.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task12.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task13.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task16.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task15.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1V2/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task1.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task2.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task3.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task4.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task5.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task6.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task7.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task8.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task9.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task10.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task11.cpp.obj CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2V2/Task12.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Full_C_Plus_Plus_Course.dir
@@ -793,6 +871,39 @@ build Full_C_Plus_Plus_Course.exe: CXX_EXECUTABLE_LINKER__Full_C_Plus_Plus_Cours
   TARGET_IMPLIB = libFull_C_Plus_Plus_Course.dll.a
   TARGET_PDB = Full_C_Plus_Plus_Course.exe.dbg
   RSP_FILE = CMakeFiles\Full_C_Plus_Plus_Course.rsp
+
+# =============================================================================
+# Object build statements for EXECUTABLE target new_target
+
+
+#############################################
+# Order-only phony target for new_target
+
+build cmake_object_order_depends_target_new_target: phony || CMakeFiles/new_target.dir
+
+build CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.obj: CXX_COMPILER__new_target_unscanned_Debug C$:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp || cmake_object_order_depends_target_new_target
+  DEP_FILE = CMakeFiles\new_target.dir\Lab2V2\Task8.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\new_target.dir
+  OBJECT_FILE_DIR = CMakeFiles\new_target.dir\Lab2V2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target new_target
+
+
+#############################################
+# Link the executable new_target.exe
+
+build new_target.exe: CXX_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\new_target.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = new_target.exe
+  TARGET_IMPLIB = libnew_target.dll.a
+  TARGET_PDB = new_target.exe.dbg
 
 
 #############################################
@@ -822,6 +933,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build Full_C_Plus_Plus_Course: phony Full_C_Plus_Plus_Course.exe
 
+build new_target: phony new_target.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -830,7 +943,7 @@ build Full_C_Plus_Plus_Course: phony Full_C_Plus_Plus_Course.exe
 #############################################
 # Folder: C:/Users/User/CLionProjects/Full-C-Plus-Plus-Course/cmake-build-debug
 
-build all: phony Full_C_Plus_Plus_Course.exe
+build all: phony Full_C_Plus_Plus_Course.exe new_target.exe
 
 # =============================================================================
 # Built-in targets

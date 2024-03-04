@@ -8,22 +8,9 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-
-    char ch = 'A';
-    string word = "fresh2refresh.com";
-    float flt = 10.234;
-    int num = 15;
-    double dbl = 10.2345678;
-
-    cout << ch << "\n" << word << endl;
-    cout << word << endl;
-    cout << flt << endl;
-    cout << num << endl;
-    cout << (int) dbl << endl;
-
-    cout << typeid(dbl).name() ;
-
-
+int main() {
+    const int myNum = 15;
+    cout << myNum;
     return 0;
 }
+
