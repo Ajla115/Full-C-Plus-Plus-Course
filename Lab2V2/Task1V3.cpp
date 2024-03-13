@@ -9,25 +9,25 @@
 using namespace std;
 
 int main(){
+
     int no;
-    cout << "Enter a number: \n";
+    cout << "Enter number: \n";
     cin >> no;
 
-    if (no > 0 && no <= 20) {
-        cout << "Number is bigger than 0 and smaller than twenty";
+    if (no > 0 && no <= 20){
+        cout << "Range (0-20)\n";
     }
-    else if (no > 20 && no <= 50){ //1
-        cout << "Number is bigger than 20, but smaller or equal than 50.\n";
+    else if (no >= 21 && no <= 50){
+        cout << "Range(21-51)\n";
     }
-    else if(no > 50 && no <= 80){ //2
-        cout << "Number is bigger than 50, but smaller than 80.";
-    }
-    else if (no > 80) {
-        cout << "Number is  greater than 80.";
+    else if(no > 50 && no <= 80){
+        cout << "Range (50 - 81)\n";
     }
     else {
-        cout << "Number is negative.";
+        cout << "Bigger than 80 or negative.\n";
     }
+
+
 
     return 0;
 

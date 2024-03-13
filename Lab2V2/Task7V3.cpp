@@ -10,21 +10,24 @@
 using namespace std;
 
 int main(){
-    int a;
-    double b, c;
+    int a; //TOTAL
+    double b, c; //Attended, result
     cout << "Enter total number of classes: ";
     cin >> a ;
 
     cout << "Enter  number of attended classes: ";
     cin >> b ;
 
-    c = (b/a) * 100;
+    c = (b / a) * 100;
 
-    if ( c > 75){
-        cout << "Student can attend exams\n.";
-    } else {
-        cout << "Student can not attend exams.\n";
+    if ( c >=75){
+        cout << "You can come\n";
     }
+    else {
+        cout << "You can't come.\n";
+    }
+
+
 
     return 0;
 }

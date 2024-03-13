@@ -6,36 +6,36 @@
 using namespace std;
 
 int main(){
-    int day;
+   int day;
+   cout << "Enter day: \n";
+   cin >> day;
 
-    cout << "Enter day: ";
-    cin >> day;
+   switch(day){
+       case 1: //if (day == 1)
+           cout << "Mon\n";
+           break;
+       case 2:
+           cout << "Tue\n";
+           break;
+       case 3:
+           cout << "Wed\n";
+           break;
+       case 4:
+           cout << "Thur\n";
+           break;
+       case 5:
+           cout << "Fri\n";
+           break;
+       case 6:
+           cout << "Sat\n";
+           break;
+       case 7:
+           cout << "Sunn\n";
+           break;
+       default:
+           cout << "No match";
+   }
 
-    switch(day){
-        case 1:
-            cout << "Monday";
-            break;
-        case 2:
-            cout << "Tuesday";
-            break;
-        case 3:
-            cout << "Wednesday";
-            break;
-        case 4:
-            cout << "Thursday";
-            break;
-        case 5:
-            cout << "Friday";
-            break;
-        case 6:
-            cout << "Saturday";
-            break;
-        case 7:
-            cout << "Sunday";
-            break;
-        default:
-            cout << "There is no day with this number";
-    }
 
     return 0;
 }

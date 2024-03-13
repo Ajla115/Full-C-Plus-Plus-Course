@@ -8,14 +8,9 @@ using namespace std;
 
 int main(){
 
-    double temp1, temp2;
-
-    cout << "Enter temperature to convert it: \n";
-    cin >> temp1;
-
-    temp2 = 1.8 * temp1 + 32;
-
-    cout << "Temperature in Fahrenheit is: " << temp2 << endl;
+int a, b;
+cin >> a >> b;
+cout << a << b;
 
     return 0;
 }

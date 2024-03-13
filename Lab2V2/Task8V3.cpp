@@ -10,13 +10,13 @@ int main() {
    cin >> a >> b >> c;
 
    if (a > b && a > c){
-       cout << a << " is max.\n";
+       cout << a << " is max.";
    }
-   else if (b>c){
-       cout << b << " is max.\n";
+   else if (b > c){
+       cout << b << " is max.";
    }
    else {
-       cout << c << " is max.\n";
+       cout << c << " is max";
    }
 
     return 0;

@@ -8,8 +8,9 @@
 using namespace std;
 
 int main(){
+
     int month;
-    cout << "Enter month:  ";
+    cout << "Enter month: ";
     cin >> month;
 
     switch(month){
@@ -17,40 +18,16 @@ int main(){
             cout << "January\n";
             break;
         case 2:
+            //else if(month == 2)
             cout << "February\n";
             break;
         case 3:
+            //else if (month == 3)
             cout << "March\n";
             break;
-        case 4:
-            cout << "April\n";
-            break;
-        case 5:
-            cout << "May\n";
-            break;
-        case 6:
-            cout << "June\n";
-            break;
-        case 7:
-            cout << "July\n";
-            break;
-        case 8:
-            cout << "August\n";
-            break;
-        case 9:
-            cout << "September\n";
-            break;
-        case 10:
-            cout << "October\n";
-            break;
-        case 11:
-            cout << "November\n";
-            break;
-        case 12:
-            cout << "December\n";
-            break;
         default:
-            cout << "There is no match for this month.\n";
+            //else
+            cout << "No match was found";
     }
 
     return 0;
