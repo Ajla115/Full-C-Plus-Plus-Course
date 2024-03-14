@@ -15,7 +15,7 @@ int main(){
         cout << "Number can't be a power of 2.";
     }
 
-    if (ceil(log2(num)) == floor(log2(num))){
+    else if (ceil(log2(num)) == floor(log2(num))){
         cout << "Number is power of 2." << endl;
     }
     else {

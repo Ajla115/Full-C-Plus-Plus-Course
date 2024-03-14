@@ -1,23 +1,25 @@
-//
-// Created by User on 20. 2. 2024..
-// #8: Write a program in C++ to find the sum of the digits of a given number.
+//#8: Write a program in C++ to find the sum of the digits of a given number.
 
 #include <iostream>
 
 using namespace std;
 
 int main(){
-    int num1, num2, lastDigit,  sum = 0;
-    cout << "Enter the number to find sum of his digits: " << endl;
-    cin >> num2;
 
-    num1 = num2;
-    while(num1 != 0){
-        lastDigit = num1 % 10;
-        sum += lastDigit;
-        num1 = num1 / 10;
+    int number, sum = 0, num_digit, copy;
+    cout << "Enter number: \n";
+    cin >> number;
+    copy = number;
+    //just copy the value of number into the another variable so we can print it out later
 
+    while(number > 0){
+        num_digit = number % 10;
+        //123 % 10 => 3
+        sum += num_digit;
+        number = number / 10;
+        //123 / 10 => 12
     }
 
-    cout << "Sum of digits of a number " << num2 << " is " << sum << endl;
+    cout << "Sum of digits of a number " << copy << " is " << sum << endl;
+    return 0;
 }

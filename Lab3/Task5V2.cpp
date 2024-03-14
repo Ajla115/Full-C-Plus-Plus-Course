@@ -5,6 +5,7 @@
 
 
 #include <iostream>
+
 using namespace std;
 
 int main(){
@@ -13,6 +14,7 @@ int main(){
 
     //you can calculate the size using length or size function
     cout << "Length of the string is: " << txt.length() << endl;
+    //length(txt)
     cout << "Length of the string is: " << txt.size() << endl;
 
     cout << "First letter of the string is: " << txt[0] << endl;

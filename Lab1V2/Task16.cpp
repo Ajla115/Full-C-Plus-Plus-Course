@@ -14,13 +14,14 @@ int main()
     cout << x << endl; // 4
     a = x--;
     // a = x //4
-    // x-- 5
+    // x-- 3
     cout << a << endl; //4
+    cout << x << endl; //3
 
-    b = --x; //6
-    //x = x-1 //6
+    b = --x; //
+    //x = x-1 //2
     //b = x
-    cout << b << endl; // 6
+    cout << b << endl; // 2
 
 
 

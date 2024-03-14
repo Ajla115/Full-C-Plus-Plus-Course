@@ -11,10 +11,19 @@ using namespace std;
 
 int main(){
 
-    string a;
-    getline(cin, a);
+    int i = 0;
+    i++; //i = i +1
+    cout << "Should be 1: " << i << endl;
 
-    cout << a;
+    int a = i;
+    cout << "Value in a should be 1: " << a << endl;
+
+    ++i; //2
+    int b = i;
+    cout << "Value in b should be 2: " << b << endl;
+
+
+
 
 
     return 0;

@@ -171,5 +171,8 @@ add_executable(Full_C_Plus_Plus_Course
         Lab3/Task9V2.cpp
         Lab3/Task10V2.cpp
         Lab3/Task11V2.cpp
+        Lab4/lab4-2024.cpp
+        Lab4/Task15Powers.cpp
+        Lab4/Task16a.cpp
 )
 add_executable(new_target Lab2V2/Task8.cpp)

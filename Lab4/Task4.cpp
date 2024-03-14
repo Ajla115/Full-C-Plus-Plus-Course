@@ -1,28 +1,31 @@
+//#4: Write a C++ program to ask user for password until they enter correct password.
+// The password will be initially set by the user.
+//If the user enters wrong password 5 times, print out “Wrong password, better luck next time.”
+
 #include <iostream>
-#include <string> // Include the string header for using std::string
+#include <string>
 
 using namespace std;
 
 int main() {
-    string userPassword, guess;
-    cout << "Please enter the your password: " << endl;
-    cin >> userPassword;
+    int attempt = 0;
+    string initialPassword = "guess123", guessPass;
 
-    int count = 0;
-    while (count <= 5) { // Change condition to < 5 to allow 5 guesses
-        cout << "Please try to guess the password: " << endl;
-        cin >> guess;
+    cout << "Try to guess the password: \n";
+    cin >> guessPass; //this is the first attempt to guess the password
 
-        if (guess == userPassword) { // Compare strings using the == operator
-            cout << "Congratulations, you have guessed the password" << endl;
+    while(attempt < 5){
+
+        if (guessPass == initialPassword){
+            cout << "Congratulations! You have guessed the password\nExiting...";
             break;
         }
-        count++;
-    }
+        else {
+            cout << "Unfortunately, wrong password. Guess again: \n";
+            cin >> guessPass;
+        }
 
-    if (count == 6) { // Check if the user has used all 5 guesses
-        cout << "Unfortunately, you have used all of your 5 guesses. Restart and try again." << endl;
+        attempt++;
     }
-
     return 0;
 }
