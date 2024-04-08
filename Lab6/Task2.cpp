@@ -5,19 +5,20 @@
 using namespace std;
 
 int main(){
-    int numbers[5];
 
-    cout << "Enter 5 numbers: \n" ;
+   int numbers[5];
 
-    for(int i = 0; i < 5; i++){
-        cin >> numbers[i];
-    }
+   for(int i = 0; i < 5; i++){
+       cout << i + 1 << ". input is: ";
+       cin >> numbers[i];
+   }
 
-    cout << "New array is: \n";
+   for(int single_item : numbers){
+       cout << single_item << endl;
+   }
 
-    for(int i = 0; i < 5; i++){
-        cout <<  numbers[i] << endl;
-    }
+   return 0;
+
 
 
 }

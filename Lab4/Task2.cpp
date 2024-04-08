@@ -7,20 +7,29 @@ using namespace std;
 
 int main(){
 
-    int end, i = 1;
+    int end;
     cout << "Enter end value: \n";
     cin >> end;
 
-    while(i < end){
-        //with the while loop, the value of i has to be previously declared and initialized,
-        //in contrary to the for loop, where i gets declared, initialized and used in the same line
-        if (i % 2 != 0){
-            cout << "Square of odd number " << i << " is " << pow(i, 2) << endl;
+    for(int i =1; i<= end; i++){
+        if( i % 2 != 0){
+            cout << "Square of number " << i << " is " << i * i << endl;
+            //pow(i, 2)
+            //pow(i,i) - pogresno
         }
-        i++; //never forget this increment in while loop, otherwise you would get infinitive loop
     }
 
+    int k = 1;
+    while(k <= end){
+        if( k % 2 != 0){
+            cout << "Square of number as well  " << k << " is " << pow(k, 2) << endl;
+        }
+        k++;
+    }
     return 0;
+
+
+
 
 }
 

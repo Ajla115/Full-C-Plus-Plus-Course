@@ -8,21 +8,20 @@ int main()
 {
     int j, i, n;
 
-    cout << "Display the multipliaction table vertically from 1 to n: " << endl;
-    cout << "Input the number up  to 5: ";
+    cout << "Display the multiplication table vertically from 1 to n: " << endl;
+    cout << "Input number: ";
     cin >> n;
 
     cout << "Multiplication table from 1 to " << n << endl;
-    for (i = 1; i <= 10; i++)
+    for (i = 1; i <= 10; i++)  //here go numbers from 1 to 10
     {
-        for (j = 1; j <= n; j++)
+        for (j = 1; j <= n; j++) //and here from one to n
         {
-            if (j <= n - 1)
-                cout << j << "x" << i << "=" << i * j <<endl;
-            else
-                cout << j << "x" << i << "=  " << i * j<<endl;
+            cout << j << "x" << i << "=" << i * j <<endl;
+
         }
         cout << endl;
     }
+    return 0;
 }
 

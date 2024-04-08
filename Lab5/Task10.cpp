@@ -4,13 +4,19 @@
 #include <iostream>
 
 using namespace  std;
-int duplicateValue(int &num1){
-    return num1*num1;
+void duplicateValue(int &x){
+    x = x*2;
 }
 int main(){
+
     int num1;
     cout << "Enter number: " ;
     cin >> num1;
 
-    cout << duplicateValue(num1);
+    cout << "Old value of number is " << num1 << endl;
+    duplicateValue(num1);
+    cout << "New value of number is " << num1 << endl;
+    return 0;
+
+
 }

@@ -1,33 +1,30 @@
-// Created by User on 20. 2. 2024..
-// #9: Write a program in C++ to find the last prime number that occurs before the entered number.
-
 #include <iostream>
 using namespace std;
-int main()
-{
-    int num1, ctr = 0;
-    cout << "\n\n Find the last prime number occurs before the entered number:\n";
-    cout << "-----------------------------------------------------------------\n";
-    cout << " Input a number to find the last prime number occurs before the number: "<<endl;
+
+int main() {
+    int num1;
+    cout << "Input a number to find the last prime number occurs before the number: ";
     cin >> num1;
-    for (int n = num1 - 1; n >= 1; n--)
-    {
-        for (int m = 2; m < n; m++)
-        {
-            if (n % m == 0)
-                ctr++;
-        }
-        if (ctr == 0)
-        {
-            if (n == 1)
-            {
-                cout << "no prime number less than 2";
+    //6
+    // 5,4,3,2,
+
+    // Loop from num1 - 1 down to 2
+    for (int n = num1 - 1; n >= 2; n--) {
+        bool isPrime = true;
+
+        // Check if n is divisible by any number from 2 to n-1
+        for (int m = 2; m * m <= n; m++) {
+            if (n % m == 0) {
+                isPrime = false;
                 break;
             }
-            cout << n << " is the last prime number before " << num1 << endl;
-            break;
         }
-        ctr = 0;
+
+        // If no divisors were found, n is prime
+        if (isPrime) {
+            cout << n << " is the last prime number before " << num1 << endl;
+
+        }
     }
     return 0;
 }

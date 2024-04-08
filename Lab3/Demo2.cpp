@@ -11,16 +11,21 @@ using namespace std;
 
 int main(){
 
-    int i = 0;
-    i++; //i = i +1
-    cout << "Should be 1: " << i << endl;
 
-    int a = i;
-    cout << "Value in a should be 1: " << a << endl;
+    int year;
+    cout << "Enter year: \n";
+    cin >> year;
+    cout << "Year is: " << year;
 
-    ++i; //2
-    int b = i;
-    cout << "Value in b should be 2: " << b << endl;
+    cin.ignore();
+
+    string name;
+    cout << "Enter name:  " << endl;
+    getline(cin, name);
+    cout << name;
+    cout << "Test";
+
+
 
 
 

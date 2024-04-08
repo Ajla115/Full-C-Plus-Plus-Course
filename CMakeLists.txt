@@ -174,5 +174,39 @@ add_executable(Full_C_Plus_Plus_Course
         Lab4/lab4-2024.cpp
         Lab4/Task15Powers.cpp
         Lab4/Task16a.cpp
+        Lab4/Task16b.cpp
+        Lab4/Task17.cpp
+        Lab4/Task18.cpp
+        Lab5/Task1V2.cpp
+        Lab5/Task2V2.cpp
+        Lab5/Task3V2.cpp
+        Lab5/Task4V2.cpp
+        Lab5/lab5-2024.cpp
+        Lab5/Task5V2.cpp
+        Lab5/Task6V2.cpp
+        Lab5/Task7V2.cpp
+        Lab5/Task8V2.cpp
+        Lab5/Task9V2.cpp
+        Lab5/PassingByValue.cpp
+        Lab5/PassingByReference.cpp
+        Lab5/Task10V2.cpp
+        Lab5/Task11V2.cpp
+        Lab5/Demo.cpp
+        Lab5/Task12.cpp
+        Lab5/Task13.cpp
+        Lab5/Task14.cpp
+        Lab5/Task15.cpp
+        Lab5/Task16.cpp
+        Lab5/Task17.cpp
+        Lab5/Task13V2.cpp
+        Lab4/Test.cpp
+        Lab6/Demo.cpp
+        Lab6/Task8.cpp
+        Lab6/Task11.cpp
+        Lab6/Task13.cpp
+        Lab6/Task16.cpp
+        Lab6/Task17.cpp
+        Lab6/Task18.cpp
+        Lab6/Task19.cpp
 )
 add_executable(new_target Lab2V2/Task8.cpp)

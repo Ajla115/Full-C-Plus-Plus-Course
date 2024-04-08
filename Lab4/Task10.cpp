@@ -13,17 +13,27 @@
 using namespace std;
 
 int main(){
-    int numOfChars;
-    cout << "Enter a number of characters for each line: " << endl;
-    cin >> numOfChars;
+    int rowNo, colNo;
+    cout << "Enter a number of characters for each row: " << endl;
+    cin >> rowNo; //2
 
-    for (int row = 1; row <= numOfChars; ++row)
+    cout << "Enter a number of characters for each column: " << endl;
+    cin >> colNo; //2
+
+    for (int col = 1; col <= colNo; col++)
     {
-        for (int col = 1; col <= numOfChars; ++col)
+        for (int row = 1; row <= rowNo; row++)
         {
             cout << "# ";
+            //# #
+            //# #
         }
         cout << endl;
+        //cout << fun1();//0
+
     }
+
+
     return 0;
 }
+

@@ -1,35 +1,23 @@
-//
-// Created by User on 23. 2. 2024..
-//7: Write C++ function to reverse elements in an array.
+//#7: Write a C++ function that finds the middle element in the array.
+// The middle element can be calculated using the following formula: M = L + (H - L)/2,
+// where L element is the low (first element in the array) and H is high (last element in the array).
 #include <iostream>
 
 using namespace std;
 
-void reverseArray(int arr[], int length) {
-    for (int i = 0; i < length / 2; i++) {
-        int temp = arr[i];
-        arr[i] = arr[length - i - 1];
-        arr[length - i - 1] = temp;
-    }
+int calculateMiddle(int arr[], int size){
+    int low = arr[0];
+    int high = arr[size-1];
+    int middle = low + (high - low)/2;
+    return middle;
 }
 
+
 int main() {
-    int numbers[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-    int arrLength = sizeof(numbers) / sizeof(int);
+    int numbers[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int size = 10;
 
-    cout << "Original array: ";
-    for (int i = 0; i < arrLength; i++) {
-        cout << numbers[i] << " ";
-    }
-    cout << endl;
-
-    reverseArray(numbers, arrLength);
-
-    cout << "Reversed array: ";
-    for (int i = 0; i < arrLength; i++) {
-        cout << numbers[i] << " ";
-    }
-    cout << endl;
+   cout << "Middle element is: " <<  calculateMiddle(numbers, size);
 
     return 0;
 }

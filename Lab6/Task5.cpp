@@ -1,46 +1,71 @@
-//
-// Created by User on 23. 2. 2024..
-// #5: Write C++ program to update every array element by multiplication of the next and previous values of given array of integers.
+//#5: Write C++ program to remove duplicate elements from the array.
 
-
-#include<iostream>
+#include <iostream>
+#include <vector>
 using namespace std;
 
-void replace_elements(int nums[], int arrLength)
-{
-    if (arrLength <= 1)
-        return;
 
-    int prev_element = nums[0];
-    nums[0] = nums[0] * nums[1];
+int main(){
 
-    for (int i=1; i < arrLength - 1; i++)
-    {
-        int curr_element = nums[i];
+    int numbers[8] = {34, 56, 34, 56, 78, 91, 24, 91};
+    int noDuplicates[8] = {};
 
-        nums[i] = prev_element * nums[i+1];
+    for(int i = 0; i < 8; i++){
+        //prolazi kroz numbers
+        bool isDuplicate = false;
+        for(int j = 0; j < 8; j++){
+            if(i != j && numbers[i] == noDuplicates[j]){
+                isDuplicate = true;
+                break;
+            }
+        }
 
-        prev_element = curr_element;
+        noDuplicates[i] = numbers[i];
     }
 
-    nums[arrLength - 1] = prev_element * nums[arrLength - 1];
-}
+    for(int single_item : noDuplicates){
+        cout << single_item << endl;
+    }
 
-int main()
-{
-    int nums[] = {0, 1, 3, 4, 5, 6, 7, 8, 10};
-    int arrLength = sizeof(nums) / sizeof(nums[0]);
+    return 0;
 
-    cout << "Original array: ";
-    for (int i=0; i < arrLength; i++)
-        cout << nums[i] <<" ";
 
-    replace_elements(nums, arrLength);
 
-    cout << "\nNew array elements: ";
-    for (int i=0; i < arrLength; i++)
-        cout << nums[i] <<" ";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    vector < int >  noDupsNumbers;
+    for(int i = 0; i < 8; i++){
+        bool copies = false;
+        for(int k = 0; k < 8; k++){
+            if( i != k && numbers[i] == numbers[k]){
+                copies = true;
+                break;
+            }
+
+        }
+
+        if(!copies) {
+            noDupsNumbers.push_back(numbers[i]);
+        }
+    }
+
+    for(int s : noDupsNumbers){
+        cout << s << endl;
+    }
     return 0;
 
 }

@@ -8,19 +8,20 @@
 
 using namespace std;
 
-int sumBetween(int num1, int num2){
-    while(num2 < num1){
-        cout << "End number has to be bigger than start number.\n";
-        cout << "Enter it again here:\n";
-        cin >> num2;
-    }
-    int sum = 0;
-    for(int i = num1; i <= num2; i++) {
-        sum += i;
+int sumBetween(int start, int end){
+    int sum = 0, temp_digit = 0, temp = 0;
+    for(int i = start; i <= end; i++ ){
+         temp = i;
+        while(temp > 0){
+            //123 % 10 => 3
+            temp_digit = temp % 10;
+            sum += temp_digit; //3
+            temp = temp / 10;
+            // 1 / 10 = 0
+        }
     }
     return sum;
 }
-
 
 int main() {
 

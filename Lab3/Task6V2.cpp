@@ -8,7 +8,7 @@ int main(){
     int num;
 
     cout << "Enter number: " << endl;
-    cin >> num;
+    cin >> num; //16, 33
 
     //exclude zero immediately, since log of zero is undefined
     if (num <= 0) {
@@ -16,10 +16,10 @@ int main(){
     }
 
     else if (ceil(log2(num)) == floor(log2(num))){
-        cout << "Number is power of 2." << endl;
+        cout << "Number is power of 2." << endl; //16
     }
     else {
-        cout << "Number is not power of 2." << endl;
+        cout << "Number is not power of 2." << endl; //33
     }
 
     return 0;

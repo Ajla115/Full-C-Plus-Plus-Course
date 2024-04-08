@@ -1,18 +1,25 @@
-// #6: Write C++ function to find the average of all values in an array.
-// Created by User on 23. 2. 2024..
+// #6: Write a C++ function that implements the linear search algorithm.
+// Linear search is the algorithm that takes array and key
+// (the element we are searching for in the array) as the function parameters.
+// It is searching for the element in the array by comparing the key with every element and returns
+// the index if the key is found. If the key is not found, it returns -1.
 
 #include <iostream>
 using namespace std;
+int searchAlg(int arr[], int size, int key){
+    for(int i = 0; i < size; i++){
+       if(arr[i] == key){
+           return i;
+            }
+        }
+
+    return -1;
+}
 
 int main(){
-    int numbers[] = {1,2,3};
-    int counter = 0, sum = 0;
-    int arrLength = sizeof(numbers) / sizeof(int);
-
-    for(int i = 0; i < arrLength; i++ ){
-        sum += numbers[i];
-        counter++;
-    }
-    cout << "Average is " << sum / counter;
+    int numbers[5] = {1,2,3,4, 5};
+    int size = 5;
+    int key = 7;
+    cout << searchAlg(numbers, size, key);
     return 0;
 }

@@ -1,5 +1,6 @@
 // Created by User on 20. 2. 2024..
-// #13:Write a program in C++ to calculate the sum of the series (1*1) + (2*2) + (3*3) + (4*4) + (5*5) + ... + (n*n).
+// #13:Write a program in C++ to calculate the sum of the series
+// (1*1) + (2*2) + (3*3) + (4*4) + (5*5) + ... + (n*n).
 
 #include <iostream>
 using namespace std;

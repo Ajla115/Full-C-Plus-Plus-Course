@@ -4,29 +4,29 @@
 using namespace std;
 
 int main(){
-    string txt, copy;
-    cout << "Enter string: " << endl;
-    getline(cin, txt);
-    copy = txt; //save it here just for comaprison for later
+    string orgTxt;
+    cout << "Enter your string: " << endl;
+    getline(cin, orgTxt);
+    string copy = orgTxt;
+    //aa bb c
+    //c bb aa
+    //i = 3 //j = 4
+    //j = 3, i = 4
 
-    for(int i = 0,j = txt.length() - 1; i < j;  i++, j--){
+    for(int i = 0, j = orgTxt.size()-1; i < j; i++, j--){
+        if ( orgTxt[i] == ' '){
+            i++;
+        }
+        if ( orgTxt[j] == ' '){
+            j++;
+        }
 
-            if(i == ' '){
-                i++;
-            }
-
-            if(j == ' '){
-                j--;
-            }
-
-            char temp = txt[i]; //swamp characters
-            txt[i] = txt[j];
-            txt[j] = temp;
-
+        char temp = orgTxt[i];
+        orgTxt[i] = orgTxt[j];
+        orgTxt[j] = temp;
     }
 
-    cout << "Oiginal  string is: " << copy  << endl;
-    cout << "Reversed string is: " << txt  << endl;
-
+    cout << "Original string is: " << copy << endl;
+    cout << "Reversed string is: " << orgTxt << endl;
     return 0;
 }

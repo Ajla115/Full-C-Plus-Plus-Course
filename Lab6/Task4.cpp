@@ -1,20 +1,30 @@
-// Created by User on 23. 2. 2024..
-// #4: Write C++ program to count the number of occurrences of specific element in an array.
+// #4: Write C++ program to find the maximum and minimum elements in the array.
 
 #include <iostream>
 
 using namespace std;
 
 int main(){
-    int numbers[] = {23,45,67,45,11,89,90,45};
-    int specific_number = 45;
-    int counter = 0;
+    int numbers[] = {54, 67, 11, 119, 23};
 
-    for(int number : numbers ){
-        if(number == specific_number){
-            counter++;
+    int size = sizeof(numbers)/sizeof(int);
+    //cout << size;
+
+    int max = numbers[0];
+    int min = numbers[0];
+
+    for(int i = 1; i < size; i++){
+        if(numbers[i] > max){
+            max = numbers[i];
         }
+        if(numbers[i] < min){
+            min = numbers[i];
+        }
+
     }
 
-    cout << "Number of occurences is: " << counter << endl;
+    cout << "Max is: " << max << endl;
+    cout << "Min is: " << min << endl;
+
+    return 0;
 }

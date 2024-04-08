@@ -4,25 +4,15 @@
 #include <iostream>
 
 using namespace std;
-
 void swapValues(int &num1, int &num2){
     int temp = num1;
     num1 = num2;
     num2 = temp;
-
-    cout << "New value of num1 is: " << num1<< endl;
-    cout << "New value of num2 is: " << num2<< endl;
-
-
-
 }
-
 int main(){
     int num1, num2;
-
     cout << "Enter first number: ";
     cin >> num1;
-
     cout << "Enter second number: ";
     cin >> num2;
 
@@ -31,4 +21,6 @@ int main(){
 
     swapValues(num1, num2);
 
+    cout << "Value of num1 after swapping is " << num1 << endl;
+    cout << "Value of num2 after swapping is " << num2<< endl;
 }

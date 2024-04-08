@@ -5,14 +5,24 @@
 using namespace std;
 
 int main(){
-    int number, factorial = 1; //give factorial immediately value of 1
-    cout << "Enter number: \n";
-    cin >> number;
+    //6
+    //6*5*4*3*2*1 = 720
 
-    for(int i = number; i > 0; i--){
-        //be sure to exclude 0 from i > 0, otherwise whole result will be zero
+    int seconds;
+    cout << seconds;
+
+    int num, factorial = 1;
+    cout << "Enter number: " << endl; //6
+    cin >> num;
+
+    for( int i = num; i > 0; i--){
         factorial *= i;
+        //1*6*5*4*3
     }
-    cout << "Factorial value of number " << number << " is " << factorial << endl;
+
+    cout << "Factorial of a number " << num << " is " << factorial << endl;
     return 0;
+
+
+
 }
