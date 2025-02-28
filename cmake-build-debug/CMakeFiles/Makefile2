@@ -83,12 +83,12 @@ clean: CMakeFiles/new_target.dir/clean
 CMakeFiles/Full_C_Plus_Plus_Course.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99 "Built target Full_C_Plus_Plus_Course"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98 "Built target Full_C_Plus_Plus_Course"
 .PHONY : CMakeFiles/Full_C_Plus_Plus_Course.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Full_C_Plus_Plus_Course.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 99
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 98
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Full_C_Plus_Plus_Course.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Full_C_Plus_Plus_Course.dir/rule
@@ -109,12 +109,12 @@ CMakeFiles/Full_C_Plus_Plus_Course.dir/clean:
 CMakeFiles/new_target.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=100 "Built target new_target"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=99,100 "Built target new_target"
 .PHONY : CMakeFiles/new_target.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/new_target.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/new_target.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/new_target.dir/rule

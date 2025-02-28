@@ -1,42 +1,34 @@
-//#10: Write a C++ program that asks the user for the
-// number between 1 and 7 and converts the number to the day in the week.
+//
+// Created by User on 6. 3. 2024..
+// #10: Write a C++ program to input any character and check whether
+// it is the alphabet,
+// digit or special character by using switch statement
 
 #include <iostream>
-
 using namespace std;
 
 int main(){
+    char ch;
+    cout << "Input a character: \n";
+    cin >> ch;
 
-    int day;
-    cout << "Enter day: \n";
-    cin >> day;
+    switch(ch){
 
-    switch (day) {
-        case 1:
-            cout << "Monday\n";
-            break;
-        case 2:
-            cout << "Tuesday\n";
-            break;
-        case 3:
-            cout << "Wednesday\n";
-            break;
-        case 4:
-            cout << "Thursday\n";
-            break;
-        case 5:
-            cout << "Friday\n";
-            break;
-        case 6:
-            cout << "Saturday\n";
-            break;
-        case 7:
-            cout << "Sunday\n";
-            break;
-        default:
-            cout << "Number should be between 1 and 7.";
+    case '0': case '1': case '2' : case '3': case '4': case '5':
+    case '6' : case '7' : case '8' : case '9' :
+        cout << "It is a number\n";
+        break;
+
+    case '!': case '@': case '#': case '$': case '%': case '^': case '&': case '*': case '(': case ')':
+    case '-': case '_': case '+': case '=': case '[': case ']': case '{': case '}': case '|': case '\\':
+    case ';': case ':': case '\'': case '"': case '<': case '>': case ',': case '.': case '/': case '?':
+         cout << "It is a special character." << endl;
+         break;
+
+    default:
+          cout << "It is a letter.";
+
     }
 
     return 0;
-
 }

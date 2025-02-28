@@ -127,37 +127,24 @@ add_executable(Full_C_Plus_Plus_Course
         Lab1/Task16.cpp
         Lab1/Task15.cpp
         Lab1/Task4.cpp
+        Lab2V2/Task3V2.cpp
+        Lab2V2/Task3V2.cpp
+        Lab2V2/Task10V2.cpp
+        Lab2V2/Task11V2.cpp
         Lab2V2/Task1.cpp
         Lab2V2/Task2.cpp
         Lab2V2/Task3.cpp
+        Lab2V2/Task7.cpp
+        Lab2V2/Task8.cpp
         Lab2V2/Task4.cpp
         Lab2V2/Task5.cpp
-        Lab2V2/Task6.cpp
-        Lab2V2/Task6.cpp
-        Lab2V2/Task7.cpp
-        Lab2V2/Task7.cpp
-        Lab2V2/Task8.cpp
-        Lab2V2/Task8.cpp
-        Lab2V2/Task9.cpp
         Lab2V2/Task9.cpp
         Lab2V2/Task10.cpp
         Lab2V2/Task11.cpp
         Lab2V2/Task12.cpp
-        Lab2V2/Task1V3.cpp
-        Lab2V2/Task2V3.cpp
-        Lab2V2/Task3V3.cpp
-        Lab2V2/Task7V3.cpp
-        Lab2V2/Task8V3.cpp
-        Lab2V2/Task4V3.cpp
-        Lab2V2/Task5V3.cpp
-        Lab2V2/Task6V3.cpp
-        Lab2V2/Task9V3.cpp
-        Lab2V2/Task10V3.cpp
-        Lab2V2/Task11V3.cpp
-        Lab2V2/Task12V3.cpp
-        Lab2V2/Task13V3.cpp
-        Lab2V2/Task14V3.cpp
-        Lab2V2/Task15V3.cpp
+        Lab2V2/Task13.cpp
+        Lab2V2/Task14.cpp
+        Lab2V2/Task15.cpp
         Lab3/Demo.cpp
         Lab3/Demo.cpp
         Lab3/Demo2.cpp

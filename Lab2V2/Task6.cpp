@@ -1,23 +1,38 @@
-
-// #6: Write a C++ program that reads two integers and checks
-// if they are multiplied or not.
-//Test Data :
-//Input the first number: 3
-//Input the second number: 8 // 3 * x
-//Expected Output: Multiplied!
+//
+// Created by User on 5. 3. 2024..
+//
 
 #include <iostream>
 
 using namespace std;
 
 int main(){
-    int a,b;
+    char grade;
+    cout << "Enter grade: ";
+    cin >> grade;
 
-    cout << "Enter first and second number: \n";
-    cin >> a >> b;
+    switch(grade){
+        case 'A':
+            cout << "Excellent\n";
+            break;
+        case 'B' :
+            cout << "Great \n";
+            break;
+        case 'C':
+            cout << "Well done" << endl;
+            break;
+        case 'D':
+            cout << "Solid" << endl;
+            break;
+        case 'E':
+            cout << "You passed" << endl;
+            break;
+        case 'F':
+            cout << "Better try again." << endl;
+            break;
+        default:
+            cout << "There is no appropriate grade.";
+    }
 
-    if (a % b == 0 || b % a == 0)
-        cout << "Multiplied\n";
-    else
-        cout << "Not multiplied\n";
+    return 0;
 }

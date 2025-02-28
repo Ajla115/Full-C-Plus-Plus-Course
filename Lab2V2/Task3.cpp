@@ -1,31 +1,34 @@
-//#3: Ask the user to enter 3 numbers and then create a simple calculator application.
-//Your calculator should:
-//a) find the sum of three numbers
-//b) find the difference of three numbers
-//c) multiply first two numbers and then subtract third one
-//d) divide last two numbers and add the first one
+//
+// Created by User on 5. 3. 2024..
+// #3: Write a C++ program that reads an integer between
+// 1 and 12 and print the month of the year in English.
 
 #include <iostream>
+
 using namespace std;
 
 int main(){
 
-    int num1, num2, num3;
+    int month;
+    cout << "Enter month: ";
+    cin >> month;
 
-    cout << "Enter first number: " << endl;
-    cin >> num1;
-
-    cout << "Enter second number: " << endl;
-    cin >> num2;
-
-    cout << "Enter third number: " << endl;
-    cin >> num3;
-
-    cout << "Operation 1: " << num1 + num2 + num3 << endl;
-    cout << "Operation 2: " << num1 - num2 - num3 << endl;
-    cout << "Operation 3: " << num1 * num2 - num3 << endl;
-    cout << "Operation 4: " << num2 / num3 + num1 << endl;
+    switch(month){
+        case 1:
+            cout << "January\n";
+            break;
+        case 2:
+            //else if(month == 2)
+            cout << "February\n";
+            break;
+        case 3:
+            //else if (month == 3)
+            cout << "March\n";
+            break;
+        default:
+            //else
+            cout << "No match was found";
+    }
 
     return 0;
-
 }

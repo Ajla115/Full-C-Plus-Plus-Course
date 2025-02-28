@@ -1,23 +1,23 @@
-//#8: Write a C++ program that asks the user to enter password and
-// check if the password is valid.
-//Valid password is “Test124”.
-
+//
+// Created by User on 5. 3. 2024..
+//#8: Write a C++  Program to find the maximum between three numbers.
 #include <iostream>
-
 using namespace std;
 
-int main(){
-    string guess;
+int main() {
+   int a,b,c;
+   cout << "Enter three numbers: \n";
+   cin >> a >> b >> c;
 
-    cout << "Enter your guess: \n";
-    cin >> guess;
-
-    if (guess == "Test124"){
-        cout << "Correct Password";
-    }
-    else {
-        cout << "Wrong password.";
-    }
+   if (a > b && a > c){
+       cout << a << " is max.";
+   }
+   else if (b > c){
+       cout << b << " is max.";
+   }
+   else {
+       cout << c << " is max";
+   }
 
     return 0;
 }

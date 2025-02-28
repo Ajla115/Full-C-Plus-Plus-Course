@@ -1,4 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course -B /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
 -- Build files have been written to: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug

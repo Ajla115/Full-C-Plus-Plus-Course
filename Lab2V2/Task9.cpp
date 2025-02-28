@@ -1,14 +1,27 @@
-//#9: Write a C++ program that asks the user for the name and prints out Hello NAME!
+//
+// Created by User on 6. 3. 2024..
+//#9: Write a C++  program to check whether the triangle is an equilateral,
+// isosceles or scalene triangle.
 
 #include <iostream>
 using namespace std;
 
 int main(){
 
-    string name;
-    cout << "Enter your name: \n";
-    cin >> name;
+    int a,b,c;
+    cout << "Enter values: \n";
+    cin >> a >> b >> c;
 
-    cout << "Hello, " << name;
+    if (a == b && a == c){ //b == c
+        cout << "All sides are equal\n";
+    }
+    else if (a == b || a == c || b == c){
+        cout << "Only two sides are same\n";
+    }
+    else {
+        cout << "No sides are the same.\n";
+    }
+
     return 0;
+
 }

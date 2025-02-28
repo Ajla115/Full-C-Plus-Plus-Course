@@ -1,43 +1,41 @@
-//#5: Write a C++ program that reads an integer
-// and check the specified range where it belongs (0-20;21-50;51-80;).
-// Print an error message if the number is negative or greater than 80.
+// #5: Write a C++ program that asks the user for the number between
+// 1 and 7 and
+// converts the number to the day in the week, using switch statement.
 
 #include <iostream>
-
 using namespace std;
 
 int main(){
+   int day;
+   cout << "Enter day: \n";
+   cin >> day;
 
-    int no;
-
-    cout << "Enter a number: " << endl;
-    cin >> no;
-
-    if (no >= 0 && no <= 20)
-        cout << "Number is between 0 and 20.";
-    else if (no >= 21 && no <= 50)
-        cout << "Number is between 21 and 50.";
-    else if (no >=51 && no <= 80) //80
-        cout << "Number is between 51 and 80.";
-    else if (no >= 81) //80
-        cout << "Number is  greater than 80";
-    else
-        cout << "Number is negative.";
-
-
-
-
-
-
-
-
-
-
-
-
+   switch(day){
+       case 1: //if (day == 1)
+           cout << "Mon\n";
+           break;
+       case 2:
+           cout << "Tue\n";
+           break;
+       case 3:
+           cout << "Wed\n";
+           break;
+       case 4:
+           cout << "Thur\n";
+           break;
+       case 5:
+           cout << "Fri\n";
+           break;
+       case 6:
+           cout << "Sat\n";
+           break;
+       case 7:
+           cout << "Sunn\n";
+           break;
+       default:
+           cout << "No match";
+   }
 
 
-
-
-return 0;
+    return 0;
 }

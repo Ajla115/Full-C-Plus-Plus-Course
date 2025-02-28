@@ -1,42 +1,21 @@
-//#12: Write a C++ program to print the message based on the grade you received.
-//A -  Excellent
-//B - Great
-//C -  Well done
-//D - You passed
-//F - Better try again
-
+//
+// Created by User on 6. 3. 2024..
+//
 
 #include <iostream>
-
 using namespace std;
 
-int main(){
+int main() {
+    int year;
+    cout << "Enter a year: ";
+    cin >> year;
 
-    char grade;
-
-    cout << "Enter grade: " << endl;
-    cin >> grade;
-
-    switch(grade){
-        case 'A':
-            cout << "Excellent"<< endl;
-            break;
-        case 'B':
-            cout << "Great"<< endl;
-            break;
-        case 'C':
-            cout << "Well done" << endl;
-            break;
-        case 'D':
-            cout << "You passed "<< endl;
-            break;
-        case 'F':
-            cout << "Try again better" << endl;
-            break;
-        default:
-            cout << "This grade does not exist";
+    if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+        cout << year << " is a leap year." << endl;
+    } else {
+        cout << year << " is not a leap year." << endl;
     }
 
     return 0;
-
 }
+

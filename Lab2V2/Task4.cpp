@@ -1,17 +1,24 @@
-// #4: Write a C++ program to find the third angle of a triangle.
+//
+// Created by User on 5. 3. 2024..
+// #4: Write a C++ program that asks the user to enter a
+// username and password and check if the credentials are valid.
+//Valid username is “testuser” and password is “Test124”.
 
 #include <iostream>
+
 using namespace std;
-
 int main(){
-    int a,b;
+    string username, password;
 
-    cout << "Enter value of first angle: \n";
-    cin >> a;
+    cout << "Enter username and password: \n";
+    cin >> username >> password ;
 
-    cout << "Enter value of second angle: \n";
-    cin >> b;
+    if (username == "testuser" && password == "Test124"){
+        cout << "True";
+    } else {
+        cout << "False";
+    }
 
-    cout << "Value of third angle: " << 180 - (a+b) << endl;
     return 0;
+
 }

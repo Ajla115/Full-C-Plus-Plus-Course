@@ -1,21 +1,29 @@
-
-// #2: Write a C++ program to find the size of fundamental data types.
-//Hint: use sizeof function
-
+//
+// Created by User on 5. 3. 2024..
+// #2: Write a C++ program that reads two integers and
+// checks if they are multiplied or not.
+//
+//Test Data :
+//Input the first number: 5
+//Input the second number: 15
+//Expected Output: Multiplied!
 
 #include <iostream>
+
 using namespace std;
 
 int main(){
 
-    cout << "The size of integer data type is " << sizeof(int) << " bytes.\n";
-    cout << "The size of double data type is " << sizeof(double) << " bytes.\n";
-    cout << "The size of float data type is " << sizeof(float) << " bytes.\n";
-    cout << "The size of char data type is " << sizeof(char) << " bytes.\n";
-    cout << "The size of string data type is " << sizeof(string) << " bytes.\n";
-    cout << "The size of bool data type is " << sizeof(bool) << " bytes.\n";
+    int a, b;
+    cout << "Enter two numbers: " << endl;
+    cin >> a >> b;
 
-
+    if (a % b == 0 || b % a == 0){
+        cout << "Multiplied\n";
+    }
+    else {
+        cout << "Not multiplied\n";
+    }
 
     return 0;
 }
