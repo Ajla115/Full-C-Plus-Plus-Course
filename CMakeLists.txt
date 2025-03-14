@@ -32,16 +32,13 @@ add_executable(Full_C_Plus_Plus_Course
         Lab2/Task11.cpp
         Lab2/Task12.cpp
         Lab2/Task13.cpp
-        Lab3/Task3.cpp
-        Lab3/Task4.cpp
-        Lab3/Task5.cpp
-        Lab3/Task6.cpp
+        Lab3/Task5ReverseString.cpp
         Week1/Lab1/PalindromStrings.cpp
-        Lab3/Task7.cpp
-        Lab3/Task8.cpp
-        Lab3/Task9.cpp
-        Lab3/Task10.cpp
-        Lab3/Task11.cpp
+        Lab3/countVowels.cpp
+        Lab3/CountNumberOfLetters.cpp
+        Lab3/capitalizeFirstLetters.cpp
+        Lab3/checkSubstring.cpp
+        Lab3/reverseNumber.cpp
         Week1/Lab1/Task10.cpp
         Week1/Lab1/Task11.cpp
         Week1/Lab1/Task12.cpp
@@ -127,37 +124,35 @@ add_executable(Full_C_Plus_Plus_Course
         Lab1/Task16.cpp
         Lab1/Task15.cpp
         Lab1/Task4.cpp
-        Lab2V2/Task3V2.cpp
-        Lab2V2/Task3V2.cpp
-        Lab2V2/Task10V2.cpp
-        Lab2V2/Task11V2.cpp
-        Lab2V2/Task1.cpp
-        Lab2V2/Task2.cpp
-        Lab2V2/Task3.cpp
-        Lab2V2/Task7.cpp
-        Lab2V2/Task8.cpp
-        Lab2V2/Task4.cpp
-        Lab2V2/Task5.cpp
-        Lab2V2/Task9.cpp
-        Lab2V2/Task10.cpp
-        Lab2V2/Task11.cpp
-        Lab2V2/Task12.cpp
-        Lab2V2/Task13.cpp
-        Lab2V2/Task14.cpp
-        Lab2V2/Task15.cpp
-        Lab3/Demo.cpp
-        Lab3/Demo.cpp
+        Lab2/Task3V2.cpp
+        Lab2/Task3V2.cpp
+        Lab2/Task10V2.cpp
+        Lab2/Task11V2.cpp
+        Lab2/Task1.cpp
+        Lab2/Task2.cpp
+        Lab2/Task3.cpp
+        Lab2/Task7.cpp
+        Lab2/Task8.cpp
+        Lab2/Task4.cpp
+        Lab2/Task5.cpp
+        Lab2/Task9.cpp
+        Lab2/Task10.cpp
+        Lab2/Task11.cpp
+        Lab2/Task12.cpp
+        Lab2/Task13.cpp
+        Lab2/Task14.cpp
+        Lab2/Task15.cpp
         Lab3/Demo2.cpp
-        Lab3/Task6V2.cpp
-        Lab3/Task1V2.cpp
+        Lab3/Task6.cpp
+        Lab3/Task1.cpp
         "Lab3/lab3(2)-2024.cpp"
-        Lab3/Task2V2.cpp
-        Lab3/Task5V2.cpp
-        Lab3/Task7V2.cpp
-        Lab3/Task8V2.cpp
-        Lab3/Task9V2.cpp
-        Lab3/Task10V2.cpp
-        Lab3/Task11V2.cpp
+        Lab3/Task2.cpp
+        Lab3/Task5.cpp
+        Lab3/Task7.cpp
+        Lab3/Task8.cpp
+        Lab3/Task9.cpp
+        Lab3/Task10.cpp
+        Lab3/Task11.cpp
         Lab4/lab4-2024.cpp
         Lab4/Task15Powers.cpp
         Lab4/Task16a.cpp
@@ -196,4 +191,4 @@ add_executable(Full_C_Plus_Plus_Course
         Lab6/Task18.cpp
         Lab6/Task19.cpp
 )
-add_executable(new_target Lab2V2/Task8.cpp)
+add_executable(new_target Lab2/Task8.cpp)

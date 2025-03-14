@@ -18,17 +18,18 @@ int main(){
     cout << "Year is: " << year;
 
     cin.ignore();
+    //By default, cin.ignore() ignores only one character from the input buffer.
+    //However, since the newline character ('\n') is left in the buffer after cin >> year,
+    //this cin.ignore(); successfully removes that newline.
 
     string name;
     cout << "Enter name:  " << endl;
     getline(cin, name);
+    //getline(cin, name); reads the entire line (including spaces).
+    //cin reads only the first word, it stops after space
+
     cout << name;
     cout << "Test";
-
-
-
-
-
 
 
     return 0;

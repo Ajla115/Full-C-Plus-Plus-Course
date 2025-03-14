@@ -1,43 +1,52 @@
-// Created by User on 15. 2. 2024..
-//Write a C++ program to count all the vowels in a given string.
+//#7. Write a C++ program to ask 2 users to enter the name, surname and year of birth.
+//The program will then print out Welcome message for each.
+//Also, the program will calculate how old both people are.
+//Finally, the program will print out who is older.
 
 #include <iostream>
-
 using namespace std;
-
-int countVowels(std::string a){
-    int i = 0, counter = 0;
-    while(a[i] != '\0'){
-        if(a[i] == 'a' || a[i] == 'e' || a[i] == 'i' || a[i] == 'o' || a[i] == 'u'){
-            ++counter;
-        }
-        i++;
-    }
-    return counter;
-}
-
 
 int main(){
 
-    std::string a;
-    cout << "Enter word to count number of vowers: "<<endl;
-    getline(cin, a);
-    //cin >> a;
+    string n1, n2;
+    int year1, year2;
 
-    countVowels(a);
-    cout << "Number of vowels in the word is: " << countVowels << endl;
+    cout << "Enter first and last name for user 1: " << endl;
+    getline(cin, n1);
+    cout << "Enter year for user 1: " << endl;
+    cin >>  year1;
 
-    /*string text;
-    cout<<"Enter string";
-    getline(cin,text);
-    int ctr = 0;
-    for(int i = 0; i < int(text.size()); i++){
-        if (text[i] == 'a' || text[i] == 'e' || text[i] == 'i' || text[i] == 'o' || text[i] == 'u')
-            ++ctr;
-        if (text[i] == 'A' || text[i] == 'E' || text[i] == 'I' || text[i] == 'O' || text[i] == 'U')
-            ++ctr;
+    /*cin>> leaves the newline character (\n) in the iostream. If getline is used after cin>>,
+    the getline sees this newline character as leading whitespace, thinks it is finished and stops reading any further.
+    So, if you are going to use getline after cin, include ingore function to clean up the buffer
+    Otherwise, it would just skip the next input*/
+
+    cin.ignore();
+
+    cout << "Enter first and last name for user 2: " << endl;
+    getline(cin, n2);
+    cout << "Enter year for user 2: " << endl;
+    cin >>  year2;
+
+    //Types of concatination in C++
+    cout << "Welcome user 1 " << n1 << endl;
+    cout << "Welcome user 2 " << n2 << endl;
+
+    //Another way of concatination is appending, eg. :
+    //fn1.append(ln2)
+    //now, when we would print just fn1, we would an output that contains both values that we entered for fn1 and ln1
+
+    if (2024 - year1 > 2024 - year2){
+
+        cout << "User " << n1 << " is older than " << n2<< endl;
     }
-    cout<< ctr;*/
+    else if (2024 - year1 == 2024 - year2){
+        cout << "Users are of the same age." << endl;
+    }
+    else {
+        cout << "User " << n2 << " is older than " << n1 << endl;
+    }
 
     return 0;
+
 }

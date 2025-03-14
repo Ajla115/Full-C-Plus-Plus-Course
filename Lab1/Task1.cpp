@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    string a, A;
+    std::string a, A;
 
     char ch = 'A';
     char ch1[20] = "Ajla";

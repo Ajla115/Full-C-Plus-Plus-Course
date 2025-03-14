@@ -69,28 +69,28 @@ include CMakeFiles/new_target.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/new_target.dir/flags.make
 
-CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o: CMakeFiles/new_target.dir/flags.make
-CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp
-CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o: CMakeFiles/new_target.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o -MF CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o.d -o CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp
+CMakeFiles/new_target.dir/Lab2/Task8.cpp.o: CMakeFiles/new_target.dir/flags.make
+CMakeFiles/new_target.dir/Lab2/Task8.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2/Task8.cpp
+CMakeFiles/new_target.dir/Lab2/Task8.cpp.o: CMakeFiles/new_target.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/new_target.dir/Lab2/Task8.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/new_target.dir/Lab2/Task8.cpp.o -MF CMakeFiles/new_target.dir/Lab2/Task8.cpp.o.d -o CMakeFiles/new_target.dir/Lab2/Task8.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2/Task8.cpp
 
-CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp > CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.i
+CMakeFiles/new_target.dir/Lab2/Task8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/new_target.dir/Lab2/Task8.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2/Task8.cpp > CMakeFiles/new_target.dir/Lab2/Task8.cpp.i
 
-CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp -o CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.s
+CMakeFiles/new_target.dir/Lab2/Task8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/new_target.dir/Lab2/Task8.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2/Task8.cpp -o CMakeFiles/new_target.dir/Lab2/Task8.cpp.s
 
 # Object files for target new_target
 new_target_OBJECTS = \
-"CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o"
+"CMakeFiles/new_target.dir/Lab2/Task8.cpp.o"
 
 # External object files for target new_target
 new_target_EXTERNAL_OBJECTS =
 
-new_target: CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o
+new_target: CMakeFiles/new_target.dir/Lab2/Task8.cpp.o
 new_target: CMakeFiles/new_target.dir/build.make
 new_target: CMakeFiles/new_target.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable new_target"

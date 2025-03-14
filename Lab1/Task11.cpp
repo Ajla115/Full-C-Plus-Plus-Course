@@ -9,11 +9,14 @@
 using namespace std;
 
 int main(){
-    int a, b, c, d;
+    float a, b, c, d;
 
     cout << "Enter four grades: " << endl;
     cin >> a >> b >> c >> d;
 
-    cout << "Average grade is: " << ((round((a+b+c+d)/4) * 100) / 100.0) << endl;
+    cout << "Average grade is: " << ((round((a+b+c+d)/4) * 1000) / 1000.0) << endl;
+
+
+
 
 }

@@ -1,27 +1,25 @@
-//
-// Created by User on 15. 2. 2024..
-//Write a C++ program to count all the words in a given string.
+//#8. Ask the user to enter coordinates of two points, and find the distance between them.
+//Round the distance to two decimal places.
 
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
-int countLetters(std::string a){
-    int counter = 0;
-    for(int i = 0; i < a.length(); i++){
-        if(a[i] == ' '){
-            continue;
-        } else {
-            counter++;
-        }
-    }
-    return counter;
-}
-
 int main(){
-    std::string a;
-    cout << "Enter a word to count number of letters: "<<endl;
-    getline(cin, a);
 
-    cout << "Number of letters in a word: " << countLetters(a) << endl;
+    int x1, x2, y1, y2;
+    double dist;
+
+    cout << "Enter coordinated for point 1: " << endl;
+    cin >> x1 >> y1;
+
+    cout << "Enter coordinated for point 2: " << endl;
+    cin >> x2 >> y2;
+
+    dist = sqrt(pow((x2-x1), 2) + pow((y2-y1), 2));
+
+
+    cout << "Distance between these two points is: " << round(dist*100)/100;
+
+    return 0;
 }

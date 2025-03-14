@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2V2/Task8.cpp" "CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o" "gcc" "CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o.d"
+  "/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab2/Task8.cpp" "CMakeFiles/new_target.dir/Lab2/Task8.cpp.o" "gcc" "CMakeFiles/new_target.dir/Lab2/Task8.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

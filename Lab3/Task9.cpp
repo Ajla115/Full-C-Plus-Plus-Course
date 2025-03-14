@@ -1,35 +1,17 @@
-// Created by User on 15. 2. 2024..
-// Write a C++ program to change the case (lower to upper and upper to lower cases) of each character in a given string.
+//Consider the following string sentence=”AMOR VINCIT OMNIA. ”
+//Change the “VINCIT” to “NON VINCAT”.
 
 #include <iostream>
-#include <string>
 using namespace std;
 
-string changeCases(std::string text) {
-    for (int x = 0; x < text.length(); x++)
-    {
-        if (isupper(text[x]))
-        {
-            text[x] = tolower(text[x]);
-        }
-        else
-        {
-            text[x] = toupper(text[x]);
-        }
-    }
-    return text;
-}
-int main()
-{
-    std::string text;
-    cout<<"Enter string to capitalize start letters: "<<endl;
+int main(){
+    string sentence="AMOR VINCIT OMNIA.";
+    //Remember, spaces count as one character as well, when indexing
 
-    //getLine takes longer phrases, that can include spaces
-    getline(cin,text);
-
-    cout << "String with changed cases is: " <<  changeCases(text);
+    cout << sentence[5]; //letter V starts here
+    cout << "String after replacement is: " << sentence.replace(5, 3, "NON VINCAT");
+    //5 is the index from where we are starting replacement
+    //6 is the length of the string that we want to replace, in this case VINCIT
 
     return 0;
 }
-
-

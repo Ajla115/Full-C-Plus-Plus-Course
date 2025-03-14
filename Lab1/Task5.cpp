@@ -6,22 +6,16 @@
 //dbl = 20.123456
 
 #include <iostream>
-using namespace std;
+
 
 
 int main() {
 
-    char ch = 'A';
-    string str = "fresh2refresh.com";
-    float flt = 10.234;
-    int no = 15;
-    double dbl = 20.123456;
+        char c;
+        std::cin>>c;
+        std::cout<<c++<<c+7;
 
-    cout << ch << endl;
-    cout << str << endl;
-    cout << flt << endl;
-    cout << no << endl;
-    cout << dbl << endl;
+
 
 
 

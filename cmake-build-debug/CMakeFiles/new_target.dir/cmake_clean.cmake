@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o"
-  "CMakeFiles/new_target.dir/Lab2V2/Task8.cpp.o.d"
+  "CMakeFiles/new_target.dir/Lab2/Task8.cpp.o"
+  "CMakeFiles/new_target.dir/Lab2/Task8.cpp.o.d"
   "new_target"
   "new_target.pdb"
 )
