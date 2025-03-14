@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Full_C_Plus_Plus_Course",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Full_C_Plus_Plus_Course::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Full_C_Plus_Plus_Course-Debug-5ac621663ef6e057e82b.json",
+					"name" : "Full_C_Plus_Plus_Course",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "new_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-new_target-Debug-0deacf18acb7ceccbf6c.json",
+					"name" : "new_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug",
+		"source" : "/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
