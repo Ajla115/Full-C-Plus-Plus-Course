@@ -21,7 +21,7 @@ int main(){
     cout << "First letter of the string is: " << txt[0] << endl;
 
     //there are multiple ways how you can get the last letter
-    cout << "Last letter of the string is: " << txt[txt.length() - 1] << endl;
+    cout << "Last letter of the string is: " << txt[txt.length()-1] << endl;
     cout << "Last letter of the string is: " << txt[txt.size() - 1] << endl;
     cout << "Last letter of the string is: " << txt.back() << endl;
 

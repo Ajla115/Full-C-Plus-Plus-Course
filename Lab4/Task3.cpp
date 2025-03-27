@@ -15,6 +15,7 @@ int main() {
     }
     cout << "\n";
 
+    //While loop way
     int k = 1;
     while(k <= 100){
         if( k % num == 3){

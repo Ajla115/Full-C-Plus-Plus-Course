@@ -7,10 +7,10 @@ using namespace std;
  void checkFrequency(string word, char a, char b){
      int firstCounter = 0, secondCounter = 0;
      for(int i = 0; i < word.length(); i++){
-         if(word[i] == 'a'){
+         if(word[i] == a){
              firstCounter++;
          }
-         if(word[i] == 'b'){
+         if(word[i] == b){
              secondCounter++;
          }
      }

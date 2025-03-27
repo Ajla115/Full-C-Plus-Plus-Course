@@ -15,14 +15,11 @@ int main(){
         // 1.0 / 4 = 0.25
     }
 
-    cout << "Final sum is: " << round(sum*1000)/1000<<  endl;
+    cout << "Final sum is: " << round(sum*100)/100<<  endl;
     //1.2456788887
     //124.567
     //125
     //1.25
-    //round(sum)
-    //1.59
-    //1   2
     return 0;
 }
 

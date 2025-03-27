@@ -29,7 +29,6 @@ int main(){
             //# #
         }
         cout << endl;
-        //cout << fun1();//0
 
     }
 

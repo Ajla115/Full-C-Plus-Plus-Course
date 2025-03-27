@@ -34,22 +34,22 @@ int main(){
             cout << "Enter two numbers: " << endl;
             cin >> n1 >> n2;
             cout << "Result of addition is: " << n1 + n2 << endl;
-            break;
+            //break;
         case 2:
             cout << "Enter two numbers: " << endl;
             cin >> n1 >> n2;
             cout << "Result of subtraction is: " << n1 - n2 << endl;
-            break;
+            //break;
         case 3:
             cout << "Enter two numbers: " << endl;
             cin >> n1 >> n2;
             cout << "Result of multiplication is: " << n1 * n2 << endl;
-            break;
+           // break;
         case 4:
             cout << "Enter two numbers: " << endl;
             cin >> n1 >> n2;
             cout << "Result of division is: " << n1 / n2 << endl;
-            break;
+            //break;
         case 5:
             cout << "Enter one number: " << endl;
             cin >> n1;
@@ -59,7 +59,7 @@ int main(){
             else {
                 cout << "Logarithm of 0 is undefined." << endl;
             }
-            break;
+           // break;
         case 6:
             cout << "Enter one number: " << endl;
             cin >> n1;
@@ -69,28 +69,31 @@ int main(){
             else {
                 cout << "Square root of negative numbers is in irrational set of numbers." << endl;
             }
-            break;
+           // break;
         case 7:
             cout << "Enter two numbers: " << endl;
             cin >> n1 >> n2;
             cout << n1 << " to the power of " << n2 << " is " << pow(n1, n2) << endl;
-            break;
+            //break;
         case 8:
             cout << "Enter one number: " << endl;
             cin >> n1;
             cout << " Sin of " << n1 << " is " << sin(n1) << endl;
             cout << " Cos of " << n1 << " is " << cos(n1) << endl;
             cout << " Tan of " << n1 << " is " << tan(n1) << endl;
-            break;
+           // break;
         case 9:
             cout << "Enter one number: " << endl;
             cin >> n3;
             cout << " Round up of  " << n3 << " is " << ceil(n3) << endl;
             cout << " Round down of  " << n3 << " is " << floor(n3) << endl;
-            break;
+            //break;
         case 10:
             cout << "Exiting...." << endl;
-            break;
+            //break;
+        default:
+            cout << "Incorrect value entered." << endl;
+
     }
 
     return 0;

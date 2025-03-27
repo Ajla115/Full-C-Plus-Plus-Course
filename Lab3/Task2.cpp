@@ -9,9 +9,9 @@ using namespace std;
 
 int main(){
 
-    cout << "Square root of 64 is: " << sqrt(64) << endl;
-    cout << "Rounding number 2.6 results in: " << round(2.6) << endl;
-    cout << "Logarithm of 2 is: " << log(2) << endl;
+    cout << "Square root of 64 is: " << sqrt(625) << endl;
+    cout << "Rounding number 2.6 results in: " << round(2.1) << endl;
+    cout << "Logarithm of 2 is: " << log(10) << endl;
 
     return 0;
 }

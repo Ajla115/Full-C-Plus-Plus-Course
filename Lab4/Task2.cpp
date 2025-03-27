@@ -15,7 +15,7 @@ int main(){
         if( i % 2 != 0){
             cout << "Square of number " << i << " is " << i * i << endl;
             //pow(i, 2)
-            //pow(i,i) - pogresno
+            //pow(i,i) - wrong
         }
     }
 

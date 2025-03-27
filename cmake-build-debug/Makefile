@@ -1033,29 +1033,29 @@ Lab2/Task9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab2/Task9.cpp.s
 .PHONY : Lab2/Task9.cpp.s
 
-Lab3/Demo.o: Lab3/Demo.cpp.o
-.PHONY : Lab3/Demo.o
+Lab3/CountNumberOfLetters.o: Lab3/CountNumberOfLetters.cpp.o
+.PHONY : Lab3/CountNumberOfLetters.o
 
 # target to build an object file
-Lab3/Demo.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Demo.cpp.o
-.PHONY : Lab3/Demo.cpp.o
+Lab3/CountNumberOfLetters.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/CountNumberOfLetters.cpp.o
+.PHONY : Lab3/CountNumberOfLetters.cpp.o
 
-Lab3/Demo.i: Lab3/Demo.cpp.i
-.PHONY : Lab3/Demo.i
+Lab3/CountNumberOfLetters.i: Lab3/CountNumberOfLetters.cpp.i
+.PHONY : Lab3/CountNumberOfLetters.i
 
 # target to preprocess a source file
-Lab3/Demo.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Demo.cpp.i
-.PHONY : Lab3/Demo.cpp.i
+Lab3/CountNumberOfLetters.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/CountNumberOfLetters.cpp.i
+.PHONY : Lab3/CountNumberOfLetters.cpp.i
 
-Lab3/Demo.s: Lab3/Demo.cpp.s
-.PHONY : Lab3/Demo.s
+Lab3/CountNumberOfLetters.s: Lab3/CountNumberOfLetters.cpp.s
+.PHONY : Lab3/CountNumberOfLetters.s
 
 # target to generate assembly for a file
-Lab3/Demo.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Demo.cpp.s
-.PHONY : Lab3/Demo.cpp.s
+Lab3/CountNumberOfLetters.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/CountNumberOfLetters.cpp.s
+.PHONY : Lab3/CountNumberOfLetters.cpp.s
 
 Lab3/Demo2.o: Lab3/Demo2.cpp.o
 .PHONY : Lab3/Demo2.o
@@ -1129,30 +1129,6 @@ Lab3/Task10.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10.cpp.s
 .PHONY : Lab3/Task10.cpp.s
 
-Lab3/Task10V2.o: Lab3/Task10V2.cpp.o
-.PHONY : Lab3/Task10V2.o
-
-# target to build an object file
-Lab3/Task10V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10V2.cpp.o
-.PHONY : Lab3/Task10V2.cpp.o
-
-Lab3/Task10V2.i: Lab3/Task10V2.cpp.i
-.PHONY : Lab3/Task10V2.i
-
-# target to preprocess a source file
-Lab3/Task10V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10V2.cpp.i
-.PHONY : Lab3/Task10V2.cpp.i
-
-Lab3/Task10V2.s: Lab3/Task10V2.cpp.s
-.PHONY : Lab3/Task10V2.s
-
-# target to generate assembly for a file
-Lab3/Task10V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task10V2.cpp.s
-.PHONY : Lab3/Task10V2.cpp.s
-
 Lab3/Task11.o: Lab3/Task11.cpp.o
 .PHONY : Lab3/Task11.o
 
@@ -1176,30 +1152,6 @@ Lab3/Task11.s: Lab3/Task11.cpp.s
 Lab3/Task11.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11.cpp.s
 .PHONY : Lab3/Task11.cpp.s
-
-Lab3/Task11V2.o: Lab3/Task11V2.cpp.o
-.PHONY : Lab3/Task11V2.o
-
-# target to build an object file
-Lab3/Task11V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11V2.cpp.o
-.PHONY : Lab3/Task11V2.cpp.o
-
-Lab3/Task11V2.i: Lab3/Task11V2.cpp.i
-.PHONY : Lab3/Task11V2.i
-
-# target to preprocess a source file
-Lab3/Task11V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11V2.cpp.i
-.PHONY : Lab3/Task11V2.cpp.i
-
-Lab3/Task11V2.s: Lab3/Task11V2.cpp.s
-.PHONY : Lab3/Task11V2.s
-
-# target to generate assembly for a file
-Lab3/Task11V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task11V2.cpp.s
-.PHONY : Lab3/Task11V2.cpp.s
 
 Lab3/Task2.o: Lab3/Task2.cpp.o
 .PHONY : Lab3/Task2.o
@@ -1297,30 +1249,6 @@ Lab3/Task6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6.cpp.s
 .PHONY : Lab3/Task6.cpp.s
 
-Lab3/Task6V2.o: Lab3/Task6V2.cpp.o
-.PHONY : Lab3/Task6V2.o
-
-# target to build an object file
-Lab3/Task6V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6V2.cpp.o
-.PHONY : Lab3/Task6V2.cpp.o
-
-Lab3/Task6V2.i: Lab3/Task6V2.cpp.i
-.PHONY : Lab3/Task6V2.i
-
-# target to preprocess a source file
-Lab3/Task6V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6V2.cpp.i
-.PHONY : Lab3/Task6V2.cpp.i
-
-Lab3/Task6V2.s: Lab3/Task6V2.cpp.s
-.PHONY : Lab3/Task6V2.s
-
-# target to generate assembly for a file
-Lab3/Task6V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task6V2.cpp.s
-.PHONY : Lab3/Task6V2.cpp.s
-
 Lab3/Task7.o: Lab3/Task7.cpp.o
 .PHONY : Lab3/Task7.o
 
@@ -1344,30 +1272,6 @@ Lab3/Task7.s: Lab3/Task7.cpp.s
 Lab3/Task7.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7.cpp.s
 .PHONY : Lab3/Task7.cpp.s
-
-Lab3/Task7V2.o: Lab3/Task7V2.cpp.o
-.PHONY : Lab3/Task7V2.o
-
-# target to build an object file
-Lab3/Task7V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7V2.cpp.o
-.PHONY : Lab3/Task7V2.cpp.o
-
-Lab3/Task7V2.i: Lab3/Task7V2.cpp.i
-.PHONY : Lab3/Task7V2.i
-
-# target to preprocess a source file
-Lab3/Task7V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7V2.cpp.i
-.PHONY : Lab3/Task7V2.cpp.i
-
-Lab3/Task7V2.s: Lab3/Task7V2.cpp.s
-.PHONY : Lab3/Task7V2.s
-
-# target to generate assembly for a file
-Lab3/Task7V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task7V2.cpp.s
-.PHONY : Lab3/Task7V2.cpp.s
 
 Lab3/Task8.o: Lab3/Task8.cpp.o
 .PHONY : Lab3/Task8.o
@@ -1393,30 +1297,6 @@ Lab3/Task8.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8.cpp.s
 .PHONY : Lab3/Task8.cpp.s
 
-Lab3/Task8V2.o: Lab3/Task8V2.cpp.o
-.PHONY : Lab3/Task8V2.o
-
-# target to build an object file
-Lab3/Task8V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8V2.cpp.o
-.PHONY : Lab3/Task8V2.cpp.o
-
-Lab3/Task8V2.i: Lab3/Task8V2.cpp.i
-.PHONY : Lab3/Task8V2.i
-
-# target to preprocess a source file
-Lab3/Task8V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8V2.cpp.i
-.PHONY : Lab3/Task8V2.cpp.i
-
-Lab3/Task8V2.s: Lab3/Task8V2.cpp.s
-.PHONY : Lab3/Task8V2.s
-
-# target to generate assembly for a file
-Lab3/Task8V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task8V2.cpp.s
-.PHONY : Lab3/Task8V2.cpp.s
-
 Lab3/Task9.o: Lab3/Task9.cpp.o
 .PHONY : Lab3/Task9.o
 
@@ -1441,29 +1321,77 @@ Lab3/Task9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9.cpp.s
 .PHONY : Lab3/Task9.cpp.s
 
-Lab3/Task9V2.o: Lab3/Task9V2.cpp.o
-.PHONY : Lab3/Task9V2.o
+Lab3/capitalizeFirstLetters.o: Lab3/capitalizeFirstLetters.cpp.o
+.PHONY : Lab3/capitalizeFirstLetters.o
 
 # target to build an object file
-Lab3/Task9V2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9V2.cpp.o
-.PHONY : Lab3/Task9V2.cpp.o
+Lab3/capitalizeFirstLetters.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/capitalizeFirstLetters.cpp.o
+.PHONY : Lab3/capitalizeFirstLetters.cpp.o
 
-Lab3/Task9V2.i: Lab3/Task9V2.cpp.i
-.PHONY : Lab3/Task9V2.i
+Lab3/capitalizeFirstLetters.i: Lab3/capitalizeFirstLetters.cpp.i
+.PHONY : Lab3/capitalizeFirstLetters.i
 
 # target to preprocess a source file
-Lab3/Task9V2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9V2.cpp.i
-.PHONY : Lab3/Task9V2.cpp.i
+Lab3/capitalizeFirstLetters.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/capitalizeFirstLetters.cpp.i
+.PHONY : Lab3/capitalizeFirstLetters.cpp.i
 
-Lab3/Task9V2.s: Lab3/Task9V2.cpp.s
-.PHONY : Lab3/Task9V2.s
+Lab3/capitalizeFirstLetters.s: Lab3/capitalizeFirstLetters.cpp.s
+.PHONY : Lab3/capitalizeFirstLetters.s
 
 # target to generate assembly for a file
-Lab3/Task9V2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/Task9V2.cpp.s
-.PHONY : Lab3/Task9V2.cpp.s
+Lab3/capitalizeFirstLetters.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/capitalizeFirstLetters.cpp.s
+.PHONY : Lab3/capitalizeFirstLetters.cpp.s
+
+Lab3/checkSubstring.o: Lab3/checkSubstring.cpp.o
+.PHONY : Lab3/checkSubstring.o
+
+# target to build an object file
+Lab3/checkSubstring.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/checkSubstring.cpp.o
+.PHONY : Lab3/checkSubstring.cpp.o
+
+Lab3/checkSubstring.i: Lab3/checkSubstring.cpp.i
+.PHONY : Lab3/checkSubstring.i
+
+# target to preprocess a source file
+Lab3/checkSubstring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/checkSubstring.cpp.i
+.PHONY : Lab3/checkSubstring.cpp.i
+
+Lab3/checkSubstring.s: Lab3/checkSubstring.cpp.s
+.PHONY : Lab3/checkSubstring.s
+
+# target to generate assembly for a file
+Lab3/checkSubstring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/checkSubstring.cpp.s
+.PHONY : Lab3/checkSubstring.cpp.s
+
+Lab3/countVowels.o: Lab3/countVowels.cpp.o
+.PHONY : Lab3/countVowels.o
+
+# target to build an object file
+Lab3/countVowels.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/countVowels.cpp.o
+.PHONY : Lab3/countVowels.cpp.o
+
+Lab3/countVowels.i: Lab3/countVowels.cpp.i
+.PHONY : Lab3/countVowels.i
+
+# target to preprocess a source file
+Lab3/countVowels.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/countVowels.cpp.i
+.PHONY : Lab3/countVowels.cpp.i
+
+Lab3/countVowels.s: Lab3/countVowels.cpp.s
+.PHONY : Lab3/countVowels.s
+
+# target to generate assembly for a file
+Lab3/countVowels.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/countVowels.cpp.s
+.PHONY : Lab3/countVowels.cpp.s
 
 Lab3/lab3(2)-2024.o: Lab3/lab3(2)-2024.cpp.o
 .PHONY : Lab3/lab3(2)-2024.o
@@ -1488,6 +1416,30 @@ Lab3/lab3(2)-2024.s: Lab3/lab3(2)-2024.cpp.s
 Lab3/lab3(2)-2024.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/lab3(2)-2024.cpp.s"
 .PHONY : Lab3/lab3(2)-2024.cpp.s
+
+Lab3/reverseNumber.o: Lab3/reverseNumber.cpp.o
+.PHONY : Lab3/reverseNumber.o
+
+# target to build an object file
+Lab3/reverseNumber.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/reverseNumber.cpp.o
+.PHONY : Lab3/reverseNumber.cpp.o
+
+Lab3/reverseNumber.i: Lab3/reverseNumber.cpp.i
+.PHONY : Lab3/reverseNumber.i
+
+# target to preprocess a source file
+Lab3/reverseNumber.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/reverseNumber.cpp.i
+.PHONY : Lab3/reverseNumber.cpp.i
+
+Lab3/reverseNumber.s: Lab3/reverseNumber.cpp.s
+.PHONY : Lab3/reverseNumber.s
+
+# target to generate assembly for a file
+Lab3/reverseNumber.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab3/reverseNumber.cpp.s
+.PHONY : Lab3/reverseNumber.cpp.s
 
 Lab4/Task1.o: Lab4/Task1.cpp.o
 .PHONY : Lab4/Task1.o
@@ -4442,9 +4394,9 @@ help:
 	@echo "... Lab2/Task9.o"
 	@echo "... Lab2/Task9.i"
 	@echo "... Lab2/Task9.s"
-	@echo "... Lab3/Demo.o"
-	@echo "... Lab3/Demo.i"
-	@echo "... Lab3/Demo.s"
+	@echo "... Lab3/CountNumberOfLetters.o"
+	@echo "... Lab3/CountNumberOfLetters.i"
+	@echo "... Lab3/CountNumberOfLetters.s"
 	@echo "... Lab3/Demo2.o"
 	@echo "... Lab3/Demo2.i"
 	@echo "... Lab3/Demo2.s"
@@ -4454,15 +4406,9 @@ help:
 	@echo "... Lab3/Task10.o"
 	@echo "... Lab3/Task10.i"
 	@echo "... Lab3/Task10.s"
-	@echo "... Lab3/Task10V2.o"
-	@echo "... Lab3/Task10V2.i"
-	@echo "... Lab3/Task10V2.s"
 	@echo "... Lab3/Task11.o"
 	@echo "... Lab3/Task11.i"
 	@echo "... Lab3/Task11.s"
-	@echo "... Lab3/Task11V2.o"
-	@echo "... Lab3/Task11V2.i"
-	@echo "... Lab3/Task11V2.s"
 	@echo "... Lab3/Task2.o"
 	@echo "... Lab3/Task2.i"
 	@echo "... Lab3/Task2.s"
@@ -4475,30 +4421,30 @@ help:
 	@echo "... Lab3/Task6.o"
 	@echo "... Lab3/Task6.i"
 	@echo "... Lab3/Task6.s"
-	@echo "... Lab3/Task6V2.o"
-	@echo "... Lab3/Task6V2.i"
-	@echo "... Lab3/Task6V2.s"
 	@echo "... Lab3/Task7.o"
 	@echo "... Lab3/Task7.i"
 	@echo "... Lab3/Task7.s"
-	@echo "... Lab3/Task7V2.o"
-	@echo "... Lab3/Task7V2.i"
-	@echo "... Lab3/Task7V2.s"
 	@echo "... Lab3/Task8.o"
 	@echo "... Lab3/Task8.i"
 	@echo "... Lab3/Task8.s"
-	@echo "... Lab3/Task8V2.o"
-	@echo "... Lab3/Task8V2.i"
-	@echo "... Lab3/Task8V2.s"
 	@echo "... Lab3/Task9.o"
 	@echo "... Lab3/Task9.i"
 	@echo "... Lab3/Task9.s"
-	@echo "... Lab3/Task9V2.o"
-	@echo "... Lab3/Task9V2.i"
-	@echo "... Lab3/Task9V2.s"
+	@echo "... Lab3/capitalizeFirstLetters.o"
+	@echo "... Lab3/capitalizeFirstLetters.i"
+	@echo "... Lab3/capitalizeFirstLetters.s"
+	@echo "... Lab3/checkSubstring.o"
+	@echo "... Lab3/checkSubstring.i"
+	@echo "... Lab3/checkSubstring.s"
+	@echo "... Lab3/countVowels.o"
+	@echo "... Lab3/countVowels.i"
+	@echo "... Lab3/countVowels.s"
 	@echo "... Lab3/lab3(2)-2024.o"
 	@echo "... Lab3/lab3(2)-2024.i"
 	@echo "... Lab3/lab3(2)-2024.s"
+	@echo "... Lab3/reverseNumber.o"
+	@echo "... Lab3/reverseNumber.i"
+	@echo "... Lab3/reverseNumber.s"
 	@echo "... Lab4/Task1.o"
 	@echo "... Lab4/Task1.i"
 	@echo "... Lab4/Task1.s"

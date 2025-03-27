@@ -13,8 +13,10 @@ int main(){
 
     cout << "Enter first and last name for user 1: " << endl;
     getline(cin, n1);
+    //cin >> n1;
     cout << "Enter year for user 1: " << endl;
     cin >>  year1;
+
 
     /*cin>> leaves the newline character (\n) in the iostream. If getline is used after cin>>,
     the getline sees this newline character as leading whitespace, thinks it is finished and stops reading any further.

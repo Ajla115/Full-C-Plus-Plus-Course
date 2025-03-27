@@ -13,6 +13,8 @@ int main(){
     // Read the whole line, allowing spaces and longer phrases
     getline(cin, value);
 
+   // cin >> value;
+
     for(int i = value.length() - 1; i >= 0; i--){
         reversedString += ((value[i]));
     }

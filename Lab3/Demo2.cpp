@@ -9,27 +9,24 @@
 
 using namespace std;
 
+string checkColor(string color1, string color2) {
+    if ((color1 == "red" && color2 == "blue") || (color2 == "red" && color1 == "blue") ) {
+        return "purple";
+    }
+    else if ((color1 == "yellow" && color2 == "blue") || (color2 == "yellow" && color1 == "blue")) {
+        return "green";
+    } else {
+        return "invalid";
+    }
+}
+
 int main(){
 
+    cout << checkColor("red", "blue") << endl;
+    cout << checkColor("yellow", "blue") << endl;
+    cout << checkColor("red", "green") << endl;
+    cout << checkColor("blue", "red") << endl;
 
-    int year;
-    cout << "Enter year: \n";
-    cin >> year;
-    cout << "Year is: " << year;
-
-    cin.ignore();
-    //By default, cin.ignore() ignores only one character from the input buffer.
-    //However, since the newline character ('\n') is left in the buffer after cin >> year,
-    //this cin.ignore(); successfully removes that newline.
-
-    string name;
-    cout << "Enter name:  " << endl;
-    getline(cin, name);
-    //getline(cin, name); reads the entire line (including spaces).
-    //cin reads only the first word, it stops after space
-
-    cout << name;
-    cout << "Test";
 
 
     return 0;
