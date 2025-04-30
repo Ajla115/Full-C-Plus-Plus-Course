@@ -1,8 +1,3 @@
-//
-// Created by User on 24. 2. 2024..
-// #10: Write a C++ program that will check whether a string inside a three-dimensional array is a palindrome if not.
-// If yes, replace the string with the sentence  “This is a palindrome”.
-
 #include <iostream>
 #include <string>
 #include <cctype> // for std::isspace
@@ -10,11 +5,9 @@
 using namespace std;
 
 int main() {
-    string result;
-
     string arr[2][2][2] = {
-            {{"racecar", "ana voli milovana"}, {"domod", "madam"}},
-            {{"mom", "noon"}, {"noon", "civic"}}
+        {{"racecar", "ana voli milovana"}, {"domod", "madam"}},
+        {{"mom", "noon"}, {"noon", "civic"}}
     };
 
     // Checking and replacing palindromes
@@ -44,10 +37,10 @@ int main() {
                 }
                 // If palindrome, replace with the sentence
                 if (isPalindrome) {
-                     result = "This is a palindrome";
+                    str = "This is a palindrome";
                 }
                 else{
-                    result = "This is not a palindrome";
+                    str = "This is not a palindrome";
                 }
             }
         }
@@ -57,7 +50,7 @@ int main() {
     for (int i = 0; i < 2; ++i) {
         for (int j = 0; j < 2; ++j) {
             for (int k = 0; k < 2; ++k) {
-                cout << arr[i][j][k] << ": "  << result << "\n";
+                cout << arr[i][j][k] << "\n";
             }
             cout << endl;
         }
@@ -66,4 +59,3 @@ int main() {
 
     return 0;
 }
-
