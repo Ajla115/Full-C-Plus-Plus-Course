@@ -87,11 +87,11 @@ add_executable(Full_C_Plus_Plus_Course
         Lab7-Week9/Task9.cpp
         Lab7-Week9/Task10.cpp
         Lab7-Week9/Task11.cpp
-        Lab8/Task1.cpp
-        Lab8/Task2.cpp
-        Lab8/Task3.cpp
-        Lab8/Task4.cpp
-        Lab8/Task5.cpp
+        Lab8-Old/Task1.cpp
+        Lab8-Old/Task2.cpp
+        Lab8-Old/Task3.cpp
+        Lab8-Old/Task4.cpp
+        Lab8-Old/Task5.cpp
         Lab9/Car.cpp
         Lab9/Course.cpp
         Lab9/Student.cpp
@@ -102,12 +102,12 @@ add_executable(Full_C_Plus_Plus_Course
         Lab9/Person.cpp
         Lab9/TrafficLights.cpp
         Lab9/Movie.cpp
-        Lab10/Task1.cpp
-        Lab10/Task2.cpp
-        Lab10/Task3.cpp
-        Lab10/Task4.cpp
-        Lab10/Task7.cpp
-        Lab10/Task8.cpp
+        Lab8-Week10/Task1.cpp
+        Lab8-Week10/Task2.cpp
+        Lab8-Week10/Task3.cpp
+        Lab8-Week10/Task4.cpp
+        Lab8-Week10/Task7.cpp
+        Lab8-Week10/Task8.cpp
         Week1/Lab1/Task16.cpp
         Week1/Lab1/Task14.cpp
         Lab1/Task1.cpp

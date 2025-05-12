@@ -1063,159 +1063,159 @@ CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab6/Task7.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task1.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task1.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task1.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task1.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task1.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task1.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task1.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task1.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task2.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task2.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task2.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task2.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task2.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task2.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task2.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task2.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task3.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task3.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task3.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task3.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task3.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task3.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task3.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task3.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task4.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task4.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task4.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task4.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task4.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task4.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task4.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task4.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task5.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task5.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task5.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task5.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task5.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task5.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task5.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task5.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task6.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task6.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task6.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task6.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task6.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task6.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task6.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task6.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task7.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task7.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task7.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task7.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task7.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task7.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task7.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task7.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task8.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task8.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task8.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task8.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task8.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task8.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task8.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task8.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task9.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task9.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task9.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task9.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task9.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task9.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task9.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task9.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task10.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task10.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task10.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task10.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task10.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task10.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task10.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task10.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.s
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task11.cpp
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task11.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task11.cpp
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o -MF CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o.d -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o -c /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task11.cpp
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task11.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.i
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task11.cpp > CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.i
 
-CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7/Task11.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.s
+CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab7-Week9/Task11.cpp -o CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.s
 
 CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.o: CMakeFiles/Full_C_Plus_Plus_Course.dir/flags.make
 CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.o: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/Lab8/Task1.cpp
@@ -2550,17 +2550,17 @@ Full_C_Plus_Plus_Course_OBJECTS = \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task5.cpp.o" \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task6.cpp.o" \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o" \
-"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o" \
+"CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o" \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.o" \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.o" \
 "CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.o" \
@@ -2726,17 +2726,17 @@ Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task4.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task5.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task6.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab6/Task7.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task1.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task2.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task3.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task4.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task5.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task6.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task7.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task8.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task9.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task10.cpp.o
-Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7/Task11.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task1.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task2.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task3.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task4.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task5.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task6.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task7.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task8.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task10.cpp.o
+Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task11.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.o
 Full_C_Plus_Plus_Course: CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.o
