@@ -1,4 +1,15 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course -B /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake:311 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake:34 (include)
+  CMakeLists.txt:2 (project)
+
+
 -- Configuring done (0.1s)
 -- Generating done (0.1s)
 -- Build files have been written to: /Users/ajlakorman/Documents/Full-C-Plus-Plus-Course/cmake-build-debug

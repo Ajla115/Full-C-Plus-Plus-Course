@@ -454,149 +454,245 @@ Lab1/Task9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab1/Task9.cpp.s
 .PHONY : Lab1/Task9.cpp.s
 
-Lab10/Task1.o: Lab10/Task1.cpp.o
-.PHONY : Lab10/Task1.o
+Lab11/Calculator.o: Lab11/Calculator.cpp.o
+.PHONY : Lab11/Calculator.o
 
 # target to build an object file
-Lab10/Task1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task1.cpp.o
-.PHONY : Lab10/Task1.cpp.o
+Lab11/Calculator.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Calculator.cpp.o
+.PHONY : Lab11/Calculator.cpp.o
 
-Lab10/Task1.i: Lab10/Task1.cpp.i
-.PHONY : Lab10/Task1.i
+Lab11/Calculator.i: Lab11/Calculator.cpp.i
+.PHONY : Lab11/Calculator.i
 
 # target to preprocess a source file
-Lab10/Task1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task1.cpp.i
-.PHONY : Lab10/Task1.cpp.i
+Lab11/Calculator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Calculator.cpp.i
+.PHONY : Lab11/Calculator.cpp.i
 
-Lab10/Task1.s: Lab10/Task1.cpp.s
-.PHONY : Lab10/Task1.s
+Lab11/Calculator.s: Lab11/Calculator.cpp.s
+.PHONY : Lab11/Calculator.s
 
 # target to generate assembly for a file
-Lab10/Task1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task1.cpp.s
-.PHONY : Lab10/Task1.cpp.s
+Lab11/Calculator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Calculator.cpp.s
+.PHONY : Lab11/Calculator.cpp.s
 
-Lab10/Task2.o: Lab10/Task2.cpp.o
-.PHONY : Lab10/Task2.o
+Lab11/Car.o: Lab11/Car.cpp.o
+.PHONY : Lab11/Car.o
 
 # target to build an object file
-Lab10/Task2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task2.cpp.o
-.PHONY : Lab10/Task2.cpp.o
+Lab11/Car.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Car.cpp.o
+.PHONY : Lab11/Car.cpp.o
 
-Lab10/Task2.i: Lab10/Task2.cpp.i
-.PHONY : Lab10/Task2.i
+Lab11/Car.i: Lab11/Car.cpp.i
+.PHONY : Lab11/Car.i
 
 # target to preprocess a source file
-Lab10/Task2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task2.cpp.i
-.PHONY : Lab10/Task2.cpp.i
+Lab11/Car.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Car.cpp.i
+.PHONY : Lab11/Car.cpp.i
 
-Lab10/Task2.s: Lab10/Task2.cpp.s
-.PHONY : Lab10/Task2.s
+Lab11/Car.s: Lab11/Car.cpp.s
+.PHONY : Lab11/Car.s
 
 # target to generate assembly for a file
-Lab10/Task2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task2.cpp.s
-.PHONY : Lab10/Task2.cpp.s
+Lab11/Car.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Car.cpp.s
+.PHONY : Lab11/Car.cpp.s
 
-Lab10/Task3.o: Lab10/Task3.cpp.o
-.PHONY : Lab10/Task3.o
+Lab11/Course.o: Lab11/Course.cpp.o
+.PHONY : Lab11/Course.o
 
 # target to build an object file
-Lab10/Task3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task3.cpp.o
-.PHONY : Lab10/Task3.cpp.o
+Lab11/Course.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Course.cpp.o
+.PHONY : Lab11/Course.cpp.o
 
-Lab10/Task3.i: Lab10/Task3.cpp.i
-.PHONY : Lab10/Task3.i
+Lab11/Course.i: Lab11/Course.cpp.i
+.PHONY : Lab11/Course.i
 
 # target to preprocess a source file
-Lab10/Task3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task3.cpp.i
-.PHONY : Lab10/Task3.cpp.i
+Lab11/Course.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Course.cpp.i
+.PHONY : Lab11/Course.cpp.i
 
-Lab10/Task3.s: Lab10/Task3.cpp.s
-.PHONY : Lab10/Task3.s
+Lab11/Course.s: Lab11/Course.cpp.s
+.PHONY : Lab11/Course.s
 
 # target to generate assembly for a file
-Lab10/Task3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task3.cpp.s
-.PHONY : Lab10/Task3.cpp.s
+Lab11/Course.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Course.cpp.s
+.PHONY : Lab11/Course.cpp.s
 
-Lab10/Task4.o: Lab10/Task4.cpp.o
-.PHONY : Lab10/Task4.o
+Lab11/Employee.o: Lab11/Employee.cpp.o
+.PHONY : Lab11/Employee.o
 
 # target to build an object file
-Lab10/Task4.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task4.cpp.o
-.PHONY : Lab10/Task4.cpp.o
+Lab11/Employee.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Employee.cpp.o
+.PHONY : Lab11/Employee.cpp.o
 
-Lab10/Task4.i: Lab10/Task4.cpp.i
-.PHONY : Lab10/Task4.i
+Lab11/Employee.i: Lab11/Employee.cpp.i
+.PHONY : Lab11/Employee.i
 
 # target to preprocess a source file
-Lab10/Task4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task4.cpp.i
-.PHONY : Lab10/Task4.cpp.i
+Lab11/Employee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Employee.cpp.i
+.PHONY : Lab11/Employee.cpp.i
 
-Lab10/Task4.s: Lab10/Task4.cpp.s
-.PHONY : Lab10/Task4.s
+Lab11/Employee.s: Lab11/Employee.cpp.s
+.PHONY : Lab11/Employee.s
 
 # target to generate assembly for a file
-Lab10/Task4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task4.cpp.s
-.PHONY : Lab10/Task4.cpp.s
+Lab11/Employee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Employee.cpp.s
+.PHONY : Lab11/Employee.cpp.s
 
-Lab10/Task7.o: Lab10/Task7.cpp.o
-.PHONY : Lab10/Task7.o
+Lab11/Movie.o: Lab11/Movie.cpp.o
+.PHONY : Lab11/Movie.o
 
 # target to build an object file
-Lab10/Task7.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task7.cpp.o
-.PHONY : Lab10/Task7.cpp.o
+Lab11/Movie.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Movie.cpp.o
+.PHONY : Lab11/Movie.cpp.o
 
-Lab10/Task7.i: Lab10/Task7.cpp.i
-.PHONY : Lab10/Task7.i
+Lab11/Movie.i: Lab11/Movie.cpp.i
+.PHONY : Lab11/Movie.i
 
 # target to preprocess a source file
-Lab10/Task7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task7.cpp.i
-.PHONY : Lab10/Task7.cpp.i
+Lab11/Movie.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Movie.cpp.i
+.PHONY : Lab11/Movie.cpp.i
 
-Lab10/Task7.s: Lab10/Task7.cpp.s
-.PHONY : Lab10/Task7.s
+Lab11/Movie.s: Lab11/Movie.cpp.s
+.PHONY : Lab11/Movie.s
 
 # target to generate assembly for a file
-Lab10/Task7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task7.cpp.s
-.PHONY : Lab10/Task7.cpp.s
+Lab11/Movie.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Movie.cpp.s
+.PHONY : Lab11/Movie.cpp.s
 
-Lab10/Task8.o: Lab10/Task8.cpp.o
-.PHONY : Lab10/Task8.o
+Lab11/Person.o: Lab11/Person.cpp.o
+.PHONY : Lab11/Person.o
 
 # target to build an object file
-Lab10/Task8.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task8.cpp.o
-.PHONY : Lab10/Task8.cpp.o
+Lab11/Person.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Person.cpp.o
+.PHONY : Lab11/Person.cpp.o
 
-Lab10/Task8.i: Lab10/Task8.cpp.i
-.PHONY : Lab10/Task8.i
+Lab11/Person.i: Lab11/Person.cpp.i
+.PHONY : Lab11/Person.i
 
 # target to preprocess a source file
-Lab10/Task8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task8.cpp.i
-.PHONY : Lab10/Task8.cpp.i
+Lab11/Person.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Person.cpp.i
+.PHONY : Lab11/Person.cpp.i
 
-Lab10/Task8.s: Lab10/Task8.cpp.s
-.PHONY : Lab10/Task8.s
+Lab11/Person.s: Lab11/Person.cpp.s
+.PHONY : Lab11/Person.s
 
 # target to generate assembly for a file
-Lab10/Task8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab10/Task8.cpp.s
-.PHONY : Lab10/Task8.cpp.s
+Lab11/Person.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Person.cpp.s
+.PHONY : Lab11/Person.cpp.s
+
+Lab11/Room.o: Lab11/Room.cpp.o
+.PHONY : Lab11/Room.o
+
+# target to build an object file
+Lab11/Room.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Room.cpp.o
+.PHONY : Lab11/Room.cpp.o
+
+Lab11/Room.i: Lab11/Room.cpp.i
+.PHONY : Lab11/Room.i
+
+# target to preprocess a source file
+Lab11/Room.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Room.cpp.i
+.PHONY : Lab11/Room.cpp.i
+
+Lab11/Room.s: Lab11/Room.cpp.s
+.PHONY : Lab11/Room.s
+
+# target to generate assembly for a file
+Lab11/Room.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Room.cpp.s
+.PHONY : Lab11/Room.cpp.s
+
+Lab11/Student.o: Lab11/Student.cpp.o
+.PHONY : Lab11/Student.o
+
+# target to build an object file
+Lab11/Student.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Student.cpp.o
+.PHONY : Lab11/Student.cpp.o
+
+Lab11/Student.i: Lab11/Student.cpp.i
+.PHONY : Lab11/Student.i
+
+# target to preprocess a source file
+Lab11/Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Student.cpp.i
+.PHONY : Lab11/Student.cpp.i
+
+Lab11/Student.s: Lab11/Student.cpp.s
+.PHONY : Lab11/Student.s
+
+# target to generate assembly for a file
+Lab11/Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Student.cpp.s
+.PHONY : Lab11/Student.cpp.s
+
+Lab11/TrafficLights.o: Lab11/TrafficLights.cpp.o
+.PHONY : Lab11/TrafficLights.o
+
+# target to build an object file
+Lab11/TrafficLights.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/TrafficLights.cpp.o
+.PHONY : Lab11/TrafficLights.cpp.o
+
+Lab11/TrafficLights.i: Lab11/TrafficLights.cpp.i
+.PHONY : Lab11/TrafficLights.i
+
+# target to preprocess a source file
+Lab11/TrafficLights.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/TrafficLights.cpp.i
+.PHONY : Lab11/TrafficLights.cpp.i
+
+Lab11/TrafficLights.s: Lab11/TrafficLights.cpp.s
+.PHONY : Lab11/TrafficLights.s
+
+# target to generate assembly for a file
+Lab11/TrafficLights.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/TrafficLights.cpp.s
+.PHONY : Lab11/TrafficLights.cpp.s
+
+Lab11/Triangle.o: Lab11/Triangle.cpp.o
+.PHONY : Lab11/Triangle.o
+
+# target to build an object file
+Lab11/Triangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Triangle.cpp.o
+.PHONY : Lab11/Triangle.cpp.o
+
+Lab11/Triangle.i: Lab11/Triangle.cpp.i
+.PHONY : Lab11/Triangle.i
+
+# target to preprocess a source file
+Lab11/Triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Triangle.cpp.i
+.PHONY : Lab11/Triangle.cpp.i
+
+Lab11/Triangle.s: Lab11/Triangle.cpp.s
+.PHONY : Lab11/Triangle.s
+
+# target to generate assembly for a file
+Lab11/Triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab11/Triangle.cpp.s
+.PHONY : Lab11/Triangle.cpp.s
 
 Lab2/Task1.o: Lab2/Task1.cpp.o
 .PHONY : Lab2/Task1.o
@@ -3409,365 +3505,269 @@ Lab7-Week9/Task9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab7-Week9/Task9.cpp.s
 .PHONY : Lab7-Week9/Task9.cpp.s
 
-Lab8/Task1.o: Lab8/Task1.cpp.o
-.PHONY : Lab8/Task1.o
+Lab8-Old/Task1.o: Lab8-Old/Task1.cpp.o
+.PHONY : Lab8-Old/Task1.o
 
 # target to build an object file
-Lab8/Task1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.o
-.PHONY : Lab8/Task1.cpp.o
+Lab8-Old/Task1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task1.cpp.o
+.PHONY : Lab8-Old/Task1.cpp.o
 
-Lab8/Task1.i: Lab8/Task1.cpp.i
-.PHONY : Lab8/Task1.i
+Lab8-Old/Task1.i: Lab8-Old/Task1.cpp.i
+.PHONY : Lab8-Old/Task1.i
 
 # target to preprocess a source file
-Lab8/Task1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.i
-.PHONY : Lab8/Task1.cpp.i
+Lab8-Old/Task1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task1.cpp.i
+.PHONY : Lab8-Old/Task1.cpp.i
 
-Lab8/Task1.s: Lab8/Task1.cpp.s
-.PHONY : Lab8/Task1.s
+Lab8-Old/Task1.s: Lab8-Old/Task1.cpp.s
+.PHONY : Lab8-Old/Task1.s
 
 # target to generate assembly for a file
-Lab8/Task1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task1.cpp.s
-.PHONY : Lab8/Task1.cpp.s
+Lab8-Old/Task1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task1.cpp.s
+.PHONY : Lab8-Old/Task1.cpp.s
 
-Lab8/Task2.o: Lab8/Task2.cpp.o
-.PHONY : Lab8/Task2.o
+Lab8-Old/Task2.o: Lab8-Old/Task2.cpp.o
+.PHONY : Lab8-Old/Task2.o
 
 # target to build an object file
-Lab8/Task2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.o
-.PHONY : Lab8/Task2.cpp.o
+Lab8-Old/Task2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task2.cpp.o
+.PHONY : Lab8-Old/Task2.cpp.o
 
-Lab8/Task2.i: Lab8/Task2.cpp.i
-.PHONY : Lab8/Task2.i
+Lab8-Old/Task2.i: Lab8-Old/Task2.cpp.i
+.PHONY : Lab8-Old/Task2.i
 
 # target to preprocess a source file
-Lab8/Task2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.i
-.PHONY : Lab8/Task2.cpp.i
+Lab8-Old/Task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task2.cpp.i
+.PHONY : Lab8-Old/Task2.cpp.i
 
-Lab8/Task2.s: Lab8/Task2.cpp.s
-.PHONY : Lab8/Task2.s
+Lab8-Old/Task2.s: Lab8-Old/Task2.cpp.s
+.PHONY : Lab8-Old/Task2.s
 
 # target to generate assembly for a file
-Lab8/Task2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task2.cpp.s
-.PHONY : Lab8/Task2.cpp.s
+Lab8-Old/Task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task2.cpp.s
+.PHONY : Lab8-Old/Task2.cpp.s
 
-Lab8/Task3.o: Lab8/Task3.cpp.o
-.PHONY : Lab8/Task3.o
+Lab8-Old/Task3.o: Lab8-Old/Task3.cpp.o
+.PHONY : Lab8-Old/Task3.o
 
 # target to build an object file
-Lab8/Task3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.o
-.PHONY : Lab8/Task3.cpp.o
+Lab8-Old/Task3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task3.cpp.o
+.PHONY : Lab8-Old/Task3.cpp.o
 
-Lab8/Task3.i: Lab8/Task3.cpp.i
-.PHONY : Lab8/Task3.i
+Lab8-Old/Task3.i: Lab8-Old/Task3.cpp.i
+.PHONY : Lab8-Old/Task3.i
 
 # target to preprocess a source file
-Lab8/Task3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.i
-.PHONY : Lab8/Task3.cpp.i
+Lab8-Old/Task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task3.cpp.i
+.PHONY : Lab8-Old/Task3.cpp.i
 
-Lab8/Task3.s: Lab8/Task3.cpp.s
-.PHONY : Lab8/Task3.s
+Lab8-Old/Task3.s: Lab8-Old/Task3.cpp.s
+.PHONY : Lab8-Old/Task3.s
 
 # target to generate assembly for a file
-Lab8/Task3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task3.cpp.s
-.PHONY : Lab8/Task3.cpp.s
+Lab8-Old/Task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task3.cpp.s
+.PHONY : Lab8-Old/Task3.cpp.s
 
-Lab8/Task4.o: Lab8/Task4.cpp.o
-.PHONY : Lab8/Task4.o
+Lab8-Old/Task4.o: Lab8-Old/Task4.cpp.o
+.PHONY : Lab8-Old/Task4.o
 
 # target to build an object file
-Lab8/Task4.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task4.cpp.o
-.PHONY : Lab8/Task4.cpp.o
+Lab8-Old/Task4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task4.cpp.o
+.PHONY : Lab8-Old/Task4.cpp.o
 
-Lab8/Task4.i: Lab8/Task4.cpp.i
-.PHONY : Lab8/Task4.i
+Lab8-Old/Task4.i: Lab8-Old/Task4.cpp.i
+.PHONY : Lab8-Old/Task4.i
 
 # target to preprocess a source file
-Lab8/Task4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task4.cpp.i
-.PHONY : Lab8/Task4.cpp.i
+Lab8-Old/Task4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task4.cpp.i
+.PHONY : Lab8-Old/Task4.cpp.i
 
-Lab8/Task4.s: Lab8/Task4.cpp.s
-.PHONY : Lab8/Task4.s
+Lab8-Old/Task4.s: Lab8-Old/Task4.cpp.s
+.PHONY : Lab8-Old/Task4.s
 
 # target to generate assembly for a file
-Lab8/Task4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task4.cpp.s
-.PHONY : Lab8/Task4.cpp.s
+Lab8-Old/Task4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task4.cpp.s
+.PHONY : Lab8-Old/Task4.cpp.s
 
-Lab8/Task5.o: Lab8/Task5.cpp.o
-.PHONY : Lab8/Task5.o
+Lab8-Old/Task5.o: Lab8-Old/Task5.cpp.o
+.PHONY : Lab8-Old/Task5.o
 
 # target to build an object file
-Lab8/Task5.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task5.cpp.o
-.PHONY : Lab8/Task5.cpp.o
+Lab8-Old/Task5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task5.cpp.o
+.PHONY : Lab8-Old/Task5.cpp.o
 
-Lab8/Task5.i: Lab8/Task5.cpp.i
-.PHONY : Lab8/Task5.i
+Lab8-Old/Task5.i: Lab8-Old/Task5.cpp.i
+.PHONY : Lab8-Old/Task5.i
 
 # target to preprocess a source file
-Lab8/Task5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task5.cpp.i
-.PHONY : Lab8/Task5.cpp.i
+Lab8-Old/Task5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task5.cpp.i
+.PHONY : Lab8-Old/Task5.cpp.i
 
-Lab8/Task5.s: Lab8/Task5.cpp.s
-.PHONY : Lab8/Task5.s
+Lab8-Old/Task5.s: Lab8-Old/Task5.cpp.s
+.PHONY : Lab8-Old/Task5.s
 
 # target to generate assembly for a file
-Lab8/Task5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8/Task5.cpp.s
-.PHONY : Lab8/Task5.cpp.s
+Lab8-Old/Task5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Old/Task5.cpp.s
+.PHONY : Lab8-Old/Task5.cpp.s
 
-Lab9/Calculator.o: Lab9/Calculator.cpp.o
-.PHONY : Lab9/Calculator.o
+Lab8-Week10/Task1.o: Lab8-Week10/Task1.cpp.o
+.PHONY : Lab8-Week10/Task1.o
 
 # target to build an object file
-Lab9/Calculator.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Calculator.cpp.o
-.PHONY : Lab9/Calculator.cpp.o
+Lab8-Week10/Task1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task1.cpp.o
+.PHONY : Lab8-Week10/Task1.cpp.o
 
-Lab9/Calculator.i: Lab9/Calculator.cpp.i
-.PHONY : Lab9/Calculator.i
+Lab8-Week10/Task1.i: Lab8-Week10/Task1.cpp.i
+.PHONY : Lab8-Week10/Task1.i
 
 # target to preprocess a source file
-Lab9/Calculator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Calculator.cpp.i
-.PHONY : Lab9/Calculator.cpp.i
+Lab8-Week10/Task1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task1.cpp.i
+.PHONY : Lab8-Week10/Task1.cpp.i
 
-Lab9/Calculator.s: Lab9/Calculator.cpp.s
-.PHONY : Lab9/Calculator.s
+Lab8-Week10/Task1.s: Lab8-Week10/Task1.cpp.s
+.PHONY : Lab8-Week10/Task1.s
 
 # target to generate assembly for a file
-Lab9/Calculator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Calculator.cpp.s
-.PHONY : Lab9/Calculator.cpp.s
+Lab8-Week10/Task1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task1.cpp.s
+.PHONY : Lab8-Week10/Task1.cpp.s
 
-Lab9/Car.o: Lab9/Car.cpp.o
-.PHONY : Lab9/Car.o
+Lab8-Week10/Task2.o: Lab8-Week10/Task2.cpp.o
+.PHONY : Lab8-Week10/Task2.o
 
 # target to build an object file
-Lab9/Car.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Car.cpp.o
-.PHONY : Lab9/Car.cpp.o
+Lab8-Week10/Task2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task2.cpp.o
+.PHONY : Lab8-Week10/Task2.cpp.o
 
-Lab9/Car.i: Lab9/Car.cpp.i
-.PHONY : Lab9/Car.i
+Lab8-Week10/Task2.i: Lab8-Week10/Task2.cpp.i
+.PHONY : Lab8-Week10/Task2.i
 
 # target to preprocess a source file
-Lab9/Car.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Car.cpp.i
-.PHONY : Lab9/Car.cpp.i
+Lab8-Week10/Task2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task2.cpp.i
+.PHONY : Lab8-Week10/Task2.cpp.i
 
-Lab9/Car.s: Lab9/Car.cpp.s
-.PHONY : Lab9/Car.s
+Lab8-Week10/Task2.s: Lab8-Week10/Task2.cpp.s
+.PHONY : Lab8-Week10/Task2.s
 
 # target to generate assembly for a file
-Lab9/Car.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Car.cpp.s
-.PHONY : Lab9/Car.cpp.s
+Lab8-Week10/Task2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task2.cpp.s
+.PHONY : Lab8-Week10/Task2.cpp.s
 
-Lab9/Course.o: Lab9/Course.cpp.o
-.PHONY : Lab9/Course.o
+Lab8-Week10/Task3.o: Lab8-Week10/Task3.cpp.o
+.PHONY : Lab8-Week10/Task3.o
 
 # target to build an object file
-Lab9/Course.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Course.cpp.o
-.PHONY : Lab9/Course.cpp.o
+Lab8-Week10/Task3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task3.cpp.o
+.PHONY : Lab8-Week10/Task3.cpp.o
 
-Lab9/Course.i: Lab9/Course.cpp.i
-.PHONY : Lab9/Course.i
+Lab8-Week10/Task3.i: Lab8-Week10/Task3.cpp.i
+.PHONY : Lab8-Week10/Task3.i
 
 # target to preprocess a source file
-Lab9/Course.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Course.cpp.i
-.PHONY : Lab9/Course.cpp.i
+Lab8-Week10/Task3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task3.cpp.i
+.PHONY : Lab8-Week10/Task3.cpp.i
 
-Lab9/Course.s: Lab9/Course.cpp.s
-.PHONY : Lab9/Course.s
+Lab8-Week10/Task3.s: Lab8-Week10/Task3.cpp.s
+.PHONY : Lab8-Week10/Task3.s
 
 # target to generate assembly for a file
-Lab9/Course.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Course.cpp.s
-.PHONY : Lab9/Course.cpp.s
+Lab8-Week10/Task3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task3.cpp.s
+.PHONY : Lab8-Week10/Task3.cpp.s
 
-Lab9/Employee.o: Lab9/Employee.cpp.o
-.PHONY : Lab9/Employee.o
+Lab8-Week10/Task4.o: Lab8-Week10/Task4.cpp.o
+.PHONY : Lab8-Week10/Task4.o
 
 # target to build an object file
-Lab9/Employee.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Employee.cpp.o
-.PHONY : Lab9/Employee.cpp.o
+Lab8-Week10/Task4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task4.cpp.o
+.PHONY : Lab8-Week10/Task4.cpp.o
 
-Lab9/Employee.i: Lab9/Employee.cpp.i
-.PHONY : Lab9/Employee.i
+Lab8-Week10/Task4.i: Lab8-Week10/Task4.cpp.i
+.PHONY : Lab8-Week10/Task4.i
 
 # target to preprocess a source file
-Lab9/Employee.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Employee.cpp.i
-.PHONY : Lab9/Employee.cpp.i
+Lab8-Week10/Task4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task4.cpp.i
+.PHONY : Lab8-Week10/Task4.cpp.i
 
-Lab9/Employee.s: Lab9/Employee.cpp.s
-.PHONY : Lab9/Employee.s
+Lab8-Week10/Task4.s: Lab8-Week10/Task4.cpp.s
+.PHONY : Lab8-Week10/Task4.s
 
 # target to generate assembly for a file
-Lab9/Employee.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Employee.cpp.s
-.PHONY : Lab9/Employee.cpp.s
+Lab8-Week10/Task4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task4.cpp.s
+.PHONY : Lab8-Week10/Task4.cpp.s
 
-Lab9/Movie.o: Lab9/Movie.cpp.o
-.PHONY : Lab9/Movie.o
+Lab8-Week10/Task7.o: Lab8-Week10/Task7.cpp.o
+.PHONY : Lab8-Week10/Task7.o
 
 # target to build an object file
-Lab9/Movie.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Movie.cpp.o
-.PHONY : Lab9/Movie.cpp.o
+Lab8-Week10/Task7.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task7.cpp.o
+.PHONY : Lab8-Week10/Task7.cpp.o
 
-Lab9/Movie.i: Lab9/Movie.cpp.i
-.PHONY : Lab9/Movie.i
+Lab8-Week10/Task7.i: Lab8-Week10/Task7.cpp.i
+.PHONY : Lab8-Week10/Task7.i
 
 # target to preprocess a source file
-Lab9/Movie.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Movie.cpp.i
-.PHONY : Lab9/Movie.cpp.i
+Lab8-Week10/Task7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task7.cpp.i
+.PHONY : Lab8-Week10/Task7.cpp.i
 
-Lab9/Movie.s: Lab9/Movie.cpp.s
-.PHONY : Lab9/Movie.s
+Lab8-Week10/Task7.s: Lab8-Week10/Task7.cpp.s
+.PHONY : Lab8-Week10/Task7.s
 
 # target to generate assembly for a file
-Lab9/Movie.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Movie.cpp.s
-.PHONY : Lab9/Movie.cpp.s
+Lab8-Week10/Task7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task7.cpp.s
+.PHONY : Lab8-Week10/Task7.cpp.s
 
-Lab9/Person.o: Lab9/Person.cpp.o
-.PHONY : Lab9/Person.o
+Lab8-Week10/Task8.o: Lab8-Week10/Task8.cpp.o
+.PHONY : Lab8-Week10/Task8.o
 
 # target to build an object file
-Lab9/Person.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Person.cpp.o
-.PHONY : Lab9/Person.cpp.o
+Lab8-Week10/Task8.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task8.cpp.o
+.PHONY : Lab8-Week10/Task8.cpp.o
 
-Lab9/Person.i: Lab9/Person.cpp.i
-.PHONY : Lab9/Person.i
-
-# target to preprocess a source file
-Lab9/Person.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Person.cpp.i
-.PHONY : Lab9/Person.cpp.i
-
-Lab9/Person.s: Lab9/Person.cpp.s
-.PHONY : Lab9/Person.s
-
-# target to generate assembly for a file
-Lab9/Person.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Person.cpp.s
-.PHONY : Lab9/Person.cpp.s
-
-Lab9/Room.o: Lab9/Room.cpp.o
-.PHONY : Lab9/Room.o
-
-# target to build an object file
-Lab9/Room.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Room.cpp.o
-.PHONY : Lab9/Room.cpp.o
-
-Lab9/Room.i: Lab9/Room.cpp.i
-.PHONY : Lab9/Room.i
+Lab8-Week10/Task8.i: Lab8-Week10/Task8.cpp.i
+.PHONY : Lab8-Week10/Task8.i
 
 # target to preprocess a source file
-Lab9/Room.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Room.cpp.i
-.PHONY : Lab9/Room.cpp.i
+Lab8-Week10/Task8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task8.cpp.i
+.PHONY : Lab8-Week10/Task8.cpp.i
 
-Lab9/Room.s: Lab9/Room.cpp.s
-.PHONY : Lab9/Room.s
-
-# target to generate assembly for a file
-Lab9/Room.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Room.cpp.s
-.PHONY : Lab9/Room.cpp.s
-
-Lab9/Student.o: Lab9/Student.cpp.o
-.PHONY : Lab9/Student.o
-
-# target to build an object file
-Lab9/Student.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Student.cpp.o
-.PHONY : Lab9/Student.cpp.o
-
-Lab9/Student.i: Lab9/Student.cpp.i
-.PHONY : Lab9/Student.i
-
-# target to preprocess a source file
-Lab9/Student.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Student.cpp.i
-.PHONY : Lab9/Student.cpp.i
-
-Lab9/Student.s: Lab9/Student.cpp.s
-.PHONY : Lab9/Student.s
+Lab8-Week10/Task8.s: Lab8-Week10/Task8.cpp.s
+.PHONY : Lab8-Week10/Task8.s
 
 # target to generate assembly for a file
-Lab9/Student.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Student.cpp.s
-.PHONY : Lab9/Student.cpp.s
-
-Lab9/TrafficLights.o: Lab9/TrafficLights.cpp.o
-.PHONY : Lab9/TrafficLights.o
-
-# target to build an object file
-Lab9/TrafficLights.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/TrafficLights.cpp.o
-.PHONY : Lab9/TrafficLights.cpp.o
-
-Lab9/TrafficLights.i: Lab9/TrafficLights.cpp.i
-.PHONY : Lab9/TrafficLights.i
-
-# target to preprocess a source file
-Lab9/TrafficLights.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/TrafficLights.cpp.i
-.PHONY : Lab9/TrafficLights.cpp.i
-
-Lab9/TrafficLights.s: Lab9/TrafficLights.cpp.s
-.PHONY : Lab9/TrafficLights.s
-
-# target to generate assembly for a file
-Lab9/TrafficLights.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/TrafficLights.cpp.s
-.PHONY : Lab9/TrafficLights.cpp.s
-
-Lab9/Triangle.o: Lab9/Triangle.cpp.o
-.PHONY : Lab9/Triangle.o
-
-# target to build an object file
-Lab9/Triangle.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Triangle.cpp.o
-.PHONY : Lab9/Triangle.cpp.o
-
-Lab9/Triangle.i: Lab9/Triangle.cpp.i
-.PHONY : Lab9/Triangle.i
-
-# target to preprocess a source file
-Lab9/Triangle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Triangle.cpp.i
-.PHONY : Lab9/Triangle.cpp.i
-
-Lab9/Triangle.s: Lab9/Triangle.cpp.s
-.PHONY : Lab9/Triangle.s
-
-# target to generate assembly for a file
-Lab9/Triangle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab9/Triangle.cpp.s
-.PHONY : Lab9/Triangle.cpp.s
+Lab8-Week10/Task8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Full_C_Plus_Plus_Course.dir/build.make CMakeFiles/Full_C_Plus_Plus_Course.dir/Lab8-Week10/Task8.cpp.s
+.PHONY : Lab8-Week10/Task8.cpp.s
 
 Week1/Lab1/ASCII.o: Week1/Lab1/ASCII.cpp.o
 .PHONY : Week1/Lab1/ASCII.o
@@ -4322,24 +4322,36 @@ help:
 	@echo "... Lab1/Task9.o"
 	@echo "... Lab1/Task9.i"
 	@echo "... Lab1/Task9.s"
-	@echo "... Lab10/Task1.o"
-	@echo "... Lab10/Task1.i"
-	@echo "... Lab10/Task1.s"
-	@echo "... Lab10/Task2.o"
-	@echo "... Lab10/Task2.i"
-	@echo "... Lab10/Task2.s"
-	@echo "... Lab10/Task3.o"
-	@echo "... Lab10/Task3.i"
-	@echo "... Lab10/Task3.s"
-	@echo "... Lab10/Task4.o"
-	@echo "... Lab10/Task4.i"
-	@echo "... Lab10/Task4.s"
-	@echo "... Lab10/Task7.o"
-	@echo "... Lab10/Task7.i"
-	@echo "... Lab10/Task7.s"
-	@echo "... Lab10/Task8.o"
-	@echo "... Lab10/Task8.i"
-	@echo "... Lab10/Task8.s"
+	@echo "... Lab11/Calculator.o"
+	@echo "... Lab11/Calculator.i"
+	@echo "... Lab11/Calculator.s"
+	@echo "... Lab11/Car.o"
+	@echo "... Lab11/Car.i"
+	@echo "... Lab11/Car.s"
+	@echo "... Lab11/Course.o"
+	@echo "... Lab11/Course.i"
+	@echo "... Lab11/Course.s"
+	@echo "... Lab11/Employee.o"
+	@echo "... Lab11/Employee.i"
+	@echo "... Lab11/Employee.s"
+	@echo "... Lab11/Movie.o"
+	@echo "... Lab11/Movie.i"
+	@echo "... Lab11/Movie.s"
+	@echo "... Lab11/Person.o"
+	@echo "... Lab11/Person.i"
+	@echo "... Lab11/Person.s"
+	@echo "... Lab11/Room.o"
+	@echo "... Lab11/Room.i"
+	@echo "... Lab11/Room.s"
+	@echo "... Lab11/Student.o"
+	@echo "... Lab11/Student.i"
+	@echo "... Lab11/Student.s"
+	@echo "... Lab11/TrafficLights.o"
+	@echo "... Lab11/TrafficLights.i"
+	@echo "... Lab11/TrafficLights.s"
+	@echo "... Lab11/Triangle.o"
+	@echo "... Lab11/Triangle.i"
+	@echo "... Lab11/Triangle.s"
 	@echo "... Lab2/Task1.o"
 	@echo "... Lab2/Task1.i"
 	@echo "... Lab2/Task1.s"
@@ -4691,51 +4703,39 @@ help:
 	@echo "... Lab7-Week9/Task9.o"
 	@echo "... Lab7-Week9/Task9.i"
 	@echo "... Lab7-Week9/Task9.s"
-	@echo "... Lab8/Task1.o"
-	@echo "... Lab8/Task1.i"
-	@echo "... Lab8/Task1.s"
-	@echo "... Lab8/Task2.o"
-	@echo "... Lab8/Task2.i"
-	@echo "... Lab8/Task2.s"
-	@echo "... Lab8/Task3.o"
-	@echo "... Lab8/Task3.i"
-	@echo "... Lab8/Task3.s"
-	@echo "... Lab8/Task4.o"
-	@echo "... Lab8/Task4.i"
-	@echo "... Lab8/Task4.s"
-	@echo "... Lab8/Task5.o"
-	@echo "... Lab8/Task5.i"
-	@echo "... Lab8/Task5.s"
-	@echo "... Lab9/Calculator.o"
-	@echo "... Lab9/Calculator.i"
-	@echo "... Lab9/Calculator.s"
-	@echo "... Lab9/Car.o"
-	@echo "... Lab9/Car.i"
-	@echo "... Lab9/Car.s"
-	@echo "... Lab9/Course.o"
-	@echo "... Lab9/Course.i"
-	@echo "... Lab9/Course.s"
-	@echo "... Lab9/Employee.o"
-	@echo "... Lab9/Employee.i"
-	@echo "... Lab9/Employee.s"
-	@echo "... Lab9/Movie.o"
-	@echo "... Lab9/Movie.i"
-	@echo "... Lab9/Movie.s"
-	@echo "... Lab9/Person.o"
-	@echo "... Lab9/Person.i"
-	@echo "... Lab9/Person.s"
-	@echo "... Lab9/Room.o"
-	@echo "... Lab9/Room.i"
-	@echo "... Lab9/Room.s"
-	@echo "... Lab9/Student.o"
-	@echo "... Lab9/Student.i"
-	@echo "... Lab9/Student.s"
-	@echo "... Lab9/TrafficLights.o"
-	@echo "... Lab9/TrafficLights.i"
-	@echo "... Lab9/TrafficLights.s"
-	@echo "... Lab9/Triangle.o"
-	@echo "... Lab9/Triangle.i"
-	@echo "... Lab9/Triangle.s"
+	@echo "... Lab8-Old/Task1.o"
+	@echo "... Lab8-Old/Task1.i"
+	@echo "... Lab8-Old/Task1.s"
+	@echo "... Lab8-Old/Task2.o"
+	@echo "... Lab8-Old/Task2.i"
+	@echo "... Lab8-Old/Task2.s"
+	@echo "... Lab8-Old/Task3.o"
+	@echo "... Lab8-Old/Task3.i"
+	@echo "... Lab8-Old/Task3.s"
+	@echo "... Lab8-Old/Task4.o"
+	@echo "... Lab8-Old/Task4.i"
+	@echo "... Lab8-Old/Task4.s"
+	@echo "... Lab8-Old/Task5.o"
+	@echo "... Lab8-Old/Task5.i"
+	@echo "... Lab8-Old/Task5.s"
+	@echo "... Lab8-Week10/Task1.o"
+	@echo "... Lab8-Week10/Task1.i"
+	@echo "... Lab8-Week10/Task1.s"
+	@echo "... Lab8-Week10/Task2.o"
+	@echo "... Lab8-Week10/Task2.i"
+	@echo "... Lab8-Week10/Task2.s"
+	@echo "... Lab8-Week10/Task3.o"
+	@echo "... Lab8-Week10/Task3.i"
+	@echo "... Lab8-Week10/Task3.s"
+	@echo "... Lab8-Week10/Task4.o"
+	@echo "... Lab8-Week10/Task4.i"
+	@echo "... Lab8-Week10/Task4.s"
+	@echo "... Lab8-Week10/Task7.o"
+	@echo "... Lab8-Week10/Task7.i"
+	@echo "... Lab8-Week10/Task7.s"
+	@echo "... Lab8-Week10/Task8.o"
+	@echo "... Lab8-Week10/Task8.i"
+	@echo "... Lab8-Week10/Task8.s"
 	@echo "... Week1/Lab1/ASCII.o"
 	@echo "... Week1/Lab1/ASCII.i"
 	@echo "... Week1/Lab1/ASCII.s"
