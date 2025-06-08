@@ -1,0 +1,9 @@
+Name:John
+Surname:Johnson
+GRADES
+CALCULUS:6
+PROGRAMMING:8
+PHYSICS:7
+ENGLISH:10
+GERMAN:10
+Average:8.2
